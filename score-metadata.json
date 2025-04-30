@@ -8,7 +8,8 @@
     ],
     "isPortuguese": false,
     "category": "An Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 2,
@@ -19,7 +20,8 @@
     ],
     "isPortuguese": false,
     "category": "An Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 3,
@@ -30,7 +32,8 @@
     ],
     "isPortuguese": false,
     "category": "An Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 4,
@@ -41,7 +44,8 @@
     ],
     "isPortuguese": false,
     "category": "An Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 5,
@@ -52,7 +56,8 @@
     ],
     "isPortuguese": false,
     "category": "An Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 6,
@@ -63,7 +68,10 @@
     ],
     "isPortuguese": false,
     "category": "An Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 7,
@@ -74,7 +82,8 @@
     ],
     "isPortuguese": false,
     "category": "An Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 8,
@@ -85,7 +94,10 @@
     ],
     "isPortuguese": false,
     "category": "An Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 9,
@@ -96,7 +108,8 @@
     ],
     "isPortuguese": false,
     "category": "An Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 10,
@@ -107,7 +120,15 @@
     ],
     "isPortuguese": false,
     "category": "Arin Arin",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "arranger": "JMiB",
+      "composer": "Trad Gascogne",
+      "copyright": "JMiB 20231229 - Tablature D.E.S. pour accordéon diatonique Sol/Do",
+      "creationDate": "2023-08-24",
+      "source": "http://musescore.com/user/5476331/scores/13708690",
+      "workTitle": "Arin-Arin"
+    }
   },
   {
     "number": 11,
@@ -118,7 +139,15 @@
     ],
     "isPortuguese": false,
     "category": "Arin Arin",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "arranger": "JMiB",
+      "composer": "Trad Gascogne",
+      "copyright": "JMiB 20231229 - Tablature D.E.S. pour accordéon diatonique Sol/Do",
+      "creationDate": "2023-08-24",
+      "source": "http://musescore.com/user/5476331/scores/13708690",
+      "workTitle": "Arin-Arin"
+    }
   },
   {
     "number": 12,
@@ -131,7 +160,11 @@
     "category": "Bourrée",
     "subcategories": [
       "2 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2023-04-09",
+      "workTitle": "Bourrée à Malochet"
+    }
   },
   {
     "number": 13,
@@ -144,7 +177,8 @@
     "category": "Bourrée",
     "subcategories": [
       "2 Tempos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 14,
@@ -157,7 +191,11 @@
     "category": "Bourrée",
     "subcategories": [
       "2 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2023-04-09",
+      "workTitle": "Bourrée à Malochet"
+    }
   },
   {
     "number": 15,
@@ -170,7 +208,11 @@
     "category": "Bourrée",
     "subcategories": [
       "2 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2023-04-09",
+      "workTitle": "Bourrée à Malochet"
+    }
   },
   {
     "number": 16,
@@ -183,7 +225,8 @@
     "category": "Bourrée",
     "subcategories": [
       "2 Tempos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 17,
@@ -196,7 +239,8 @@
     "category": "Bourrée",
     "subcategories": [
       "2 Tempos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 18,
@@ -209,7 +253,8 @@
     "category": "Bourrée",
     "subcategories": [
       "2 Tempos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 19,
@@ -222,7 +267,8 @@
     "category": "Bourrée",
     "subcategories": [
       "2 Tempos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 20,
@@ -235,7 +281,11 @@
     "category": "Bourrée",
     "subcategories": [
       "2 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2023-04-09",
+      "workTitle": "Bourrée à Malochet"
+    }
   },
   {
     "number": 21,
@@ -248,7 +298,8 @@
     "category": "Bourrée",
     "subcategories": [
       "2 Tempos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 22,
@@ -261,7 +312,8 @@
     "category": "Bourrée",
     "subcategories": [
       "3 Tempos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 23,
@@ -274,7 +326,10 @@
     "category": "Bourrée",
     "subcategories": [
       "3 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 24,
@@ -287,7 +342,10 @@
     "category": "Bourrée",
     "subcategories": [
       "3 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 25,
@@ -300,7 +358,10 @@
     "category": "Bourrée",
     "subcategories": [
       "3 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 26,
@@ -313,7 +374,13 @@
     "category": "Bransle",
     "subcategories": [
       "Brando (Bransle italiana)"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2019-10-26",
+      "originalFormat": "musicxml",
+      "source": "http://musescore.com/user/10636897/scores/5135548",
+      "workTitle": "Sbrando"
+    }
   },
   {
     "number": 27,
@@ -326,7 +393,8 @@
     "category": "Bransle",
     "subcategories": [
       "D'Ossau"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 28,
@@ -339,7 +407,8 @@
     "category": "Bransle",
     "subcategories": [
       "D'Ossau"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 29,
@@ -353,7 +422,10 @@
     "subcategories": [
       "De Noirmoutier",
       "Bransle de Noirmoutier - Suite 1"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 30,
@@ -367,7 +439,10 @@
     "subcategories": [
       "De Noirmoutier",
       "Bransle de Noirmoutier - Suite 1"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 31,
@@ -381,7 +456,10 @@
     "subcategories": [
       "De Noirmoutier",
       "Bransle de Noirmoutier - Suite 1"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 32,
@@ -395,7 +473,10 @@
     "subcategories": [
       "De Noirmoutier",
       "Bransle de Noirmoutier - Suite 2"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 33,
@@ -409,7 +490,10 @@
     "subcategories": [
       "De Noirmoutier",
       "Bransle de Noirmoutier - Suite 2"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 34,
@@ -422,7 +506,10 @@
     "category": "Bransle",
     "subcategories": [
       "Modernas"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 35,
@@ -435,7 +522,10 @@
     "category": "Bransle",
     "subcategories": [
       "Renascentistas"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 36,
@@ -448,7 +538,10 @@
     "category": "Bransle",
     "subcategories": [
       "Renascentistas"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 37,
@@ -461,7 +554,10 @@
     "category": "Bransle",
     "subcategories": [
       "Renascentistas"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 38,
@@ -474,7 +570,10 @@
     "category": "Bransle",
     "subcategories": [
       "Renascentistas"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 39,
@@ -487,7 +586,8 @@
     "category": "Bransle",
     "subcategories": [
       "Renascentistas"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 40,
@@ -500,7 +600,10 @@
     "category": "Bransle",
     "subcategories": [
       "Renascentistas"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 41,
@@ -513,7 +616,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Britanicos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 42,
@@ -526,7 +630,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Britanicos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 43,
@@ -539,7 +644,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Britanicos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 44,
@@ -552,7 +658,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Britanicos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 45,
@@ -565,7 +672,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Britanicos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 46,
@@ -578,7 +686,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs continentais europeus"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 47,
@@ -591,7 +700,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs continentais europeus"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 48,
@@ -604,7 +714,10 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs continentais europeus"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 49,
@@ -617,7 +730,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs continentais europeus"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 50,
@@ -630,7 +744,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs continentais europeus"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 51,
@@ -643,7 +758,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Irlandeses"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 52,
@@ -656,7 +772,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Irlandeses"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 53,
@@ -669,7 +786,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Irlandeses"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 54,
@@ -682,7 +800,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Irlandeses"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 55,
@@ -695,7 +814,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Irlandeses"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 56,
@@ -708,7 +828,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Irlandeses"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 57,
@@ -721,7 +842,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Irlandeses"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 58,
@@ -734,7 +856,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Irlandeses"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 59,
@@ -747,7 +870,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Irlandeses"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 60,
@@ -760,7 +884,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Jigs Irlandeses"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 61,
@@ -773,7 +898,10 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Temas Pop"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 62,
@@ -786,7 +914,10 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Temas Pop"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 63,
@@ -799,7 +930,10 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Temas Pop"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 64,
@@ -812,7 +946,8 @@
     "category": "Circulo & Chappeloise",
     "subcategories": [
       "Temas Pop"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 65,
@@ -823,7 +958,8 @@
     ],
     "isPortuguese": false,
     "category": "Congo",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 66,
@@ -834,7 +970,8 @@
     ],
     "isPortuguese": false,
     "category": "Congo",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 67,
@@ -845,7 +982,8 @@
     ],
     "isPortuguese": false,
     "category": "Congo",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 68,
@@ -856,7 +994,8 @@
     ],
     "isPortuguese": false,
     "category": "Congo",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 69,
@@ -867,7 +1006,8 @@
     ],
     "isPortuguese": false,
     "category": "Congo",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 70,
@@ -878,7 +1018,14 @@
     ],
     "isPortuguese": false,
     "category": "Fandango",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "composer": "Trad.",
+      "copyright": "JMiB 20220314 - Tablature accordéon diatonique Sol/Do",
+      "creationDate": "20220314",
+      "source": "http://musescore.com/user/5476331/scores/7717283",
+      "workTitle": "Fandango"
+    }
   },
   {
     "number": 71,
@@ -891,7 +1038,10 @@
     "category": "Gavotte",
     "subcategories": [
       "Gavotte bretã"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 72,
@@ -904,7 +1054,10 @@
     "category": "Gavotte",
     "subcategories": [
       "Gavotte de Grenoble"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 73,
@@ -917,7 +1070,10 @@
     "category": "Gavotte",
     "subcategories": [
       "Gavotte de Grenoble"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 74,
@@ -930,7 +1086,10 @@
     "category": "Gavotte",
     "subcategories": [
       "Gavotte de Grenoble"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 75,
@@ -943,7 +1102,10 @@
     "category": "Gavotte",
     "subcategories": [
       "Gavotte de Grenoble"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 76,
@@ -956,7 +1118,10 @@
     "category": "Gavotte",
     "subcategories": [
       "Gavotte de Grenoble"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 77,
@@ -969,7 +1134,10 @@
     "category": "Gavotte",
     "subcategories": [
       "Gavotte de Grenoble"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 78,
@@ -982,7 +1150,10 @@
     "category": "Gavotte",
     "subcategories": [
       "Gavotte de Grenoble"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 79,
@@ -995,7 +1166,10 @@
     "category": "Gavotte",
     "subcategories": [
       "Gavotte de Grenoble"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 80,
@@ -1008,7 +1182,14 @@
     "category": "Gavotte",
     "subcategories": [
       "Gavotte de Grenoble"
-    ]
+    ],
+    "labels": {
+      "composer": "Hartwin Dhoore",
+      "creationDate": "2024-02-28",
+      "originalFormat": "xml",
+      "source": "http://musescore.com/user/79422538/scores/14664298",
+      "workTitle": "Very Jeune"
+    }
   },
   {
     "number": 81,
@@ -1019,7 +1200,10 @@
     ],
     "isPortuguese": false,
     "category": "Halay",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 82,
@@ -1030,7 +1214,8 @@
     ],
     "isPortuguese": false,
     "category": "Hanter Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 83,
@@ -1041,7 +1226,8 @@
     ],
     "isPortuguese": false,
     "category": "Hanter Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 84,
@@ -1052,7 +1238,10 @@
     ],
     "isPortuguese": false,
     "category": "Hanter Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 85,
@@ -1063,7 +1252,10 @@
     ],
     "isPortuguese": false,
     "category": "Hanter Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 86,
@@ -1074,7 +1266,10 @@
     ],
     "isPortuguese": false,
     "category": "Hanter Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 87,
@@ -1085,7 +1280,8 @@
     ],
     "isPortuguese": false,
     "category": "Hanter Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 88,
@@ -1096,7 +1292,8 @@
     ],
     "isPortuguese": false,
     "category": "Hanter Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 89,
@@ -1107,7 +1304,10 @@
     ],
     "isPortuguese": false,
     "category": "Hanter Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 90,
@@ -1118,7 +1318,8 @@
     ],
     "isPortuguese": false,
     "category": "Hanter Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 91,
@@ -1129,7 +1330,10 @@
     ],
     "isPortuguese": false,
     "category": "Hanter Dro",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 92,
@@ -1140,7 +1344,8 @@
     ],
     "isPortuguese": false,
     "category": "Hasapiko",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 93,
@@ -1151,7 +1356,10 @@
     ],
     "isPortuguese": false,
     "category": "Lambada",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 94,
@@ -1162,7 +1370,11 @@
     ],
     "isPortuguese": false,
     "category": "Madison",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2019-05-08",
+      "workTitle": "Tzadik Katamar"
+    }
   },
   {
     "number": 95,
@@ -1173,7 +1385,11 @@
     ],
     "isPortuguese": false,
     "category": "Madison",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2019-05-08",
+      "workTitle": "Tzadik Katamar"
+    }
   },
   {
     "number": 96,
@@ -1186,7 +1402,8 @@
     "category": "Maraichine",
     "subcategories": [
       "Maraichine - Suite 1 (Ciac Boum)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 97,
@@ -1199,7 +1416,8 @@
     "category": "Maraichine",
     "subcategories": [
       "Maraichine - Suite 1 (Ciac Boum)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 98,
@@ -1212,7 +1430,8 @@
     "category": "Maraichine",
     "subcategories": [
       "Maraichine - Suite 1 (Ciac Boum)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 99,
@@ -1225,7 +1444,8 @@
     "category": "Marchoise",
     "subcategories": [
       "Marchoise - suite 1 (Guerbigny)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 100,
@@ -1238,7 +1458,8 @@
     "category": "Marchoise",
     "subcategories": [
       "Marchoise - suite 1 (Guerbigny)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 101,
@@ -1251,7 +1472,8 @@
     "category": "Marchoise",
     "subcategories": [
       "Marchoise - suite 1 (Guerbigny)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 102,
@@ -1264,7 +1486,12 @@
     "category": "Mazurka",
     "subcategories": [
       "Cabo Verdiana"
-    ]
+    ],
+    "labels": {
+      "composer": "Stéphane Delicq",
+      "creationDate": "2021-12-20",
+      "workTitle": "Nadiejda"
+    }
   },
   {
     "number": 103,
@@ -1277,7 +1504,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 104,
@@ -1290,7 +1518,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 105,
@@ -1303,7 +1532,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 106,
@@ -1316,7 +1548,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 107,
@@ -1329,7 +1564,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 108,
@@ -1342,7 +1578,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 109,
@@ -1355,7 +1592,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 110,
@@ -1368,7 +1606,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 111,
@@ -1381,7 +1622,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 112,
@@ -1394,7 +1636,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 113,
@@ -1407,7 +1652,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 114,
@@ -1420,7 +1666,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 115,
@@ -1433,7 +1680,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 116,
@@ -1446,7 +1694,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 117,
@@ -1459,7 +1710,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 118,
@@ -1472,7 +1724,12 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "composer": "Stéphane Delicq",
+      "creationDate": "2021-12-21",
+      "workTitle": "La Discrète"
+    }
   },
   {
     "number": 119,
@@ -1485,7 +1742,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 120,
@@ -1498,7 +1756,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 121,
@@ -1511,7 +1770,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 122,
@@ -1524,7 +1784,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 123,
@@ -1537,7 +1800,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 124,
@@ -1550,7 +1816,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 125,
@@ -1563,7 +1830,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 126,
@@ -1576,7 +1846,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 127,
@@ -1589,7 +1860,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 128,
@@ -1602,7 +1874,12 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "composer": "Stéphane Delicq",
+      "creationDate": "2021-12-20",
+      "workTitle": "Nadiejda"
+    }
   },
   {
     "number": 129,
@@ -1615,7 +1892,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 130,
@@ -1628,7 +1908,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 131,
@@ -1641,7 +1922,8 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 132,
@@ -1654,7 +1936,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 133,
@@ -1667,7 +1952,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 134,
@@ -1680,7 +1968,10 @@
     "category": "Mazurka",
     "subcategories": [
       "Europeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 135,
@@ -1691,7 +1982,12 @@
     ],
     "isPortuguese": false,
     "category": "Muñeira",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2019-10-23",
+      "originalFormat": "musicxml",
+      "workTitle": "Muineira Da Camposa"
+    }
   },
   {
     "number": 136,
@@ -1702,7 +1998,8 @@
     ],
     "isPortuguese": false,
     "category": "Muñeira",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 137,
@@ -1713,7 +2010,8 @@
     ],
     "isPortuguese": false,
     "category": "Muñeira",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 138,
@@ -1724,7 +2022,8 @@
     ],
     "isPortuguese": false,
     "category": "Polka",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 139,
@@ -1735,7 +2034,8 @@
     ],
     "isPortuguese": false,
     "category": "Polka",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 140,
@@ -1746,7 +2046,8 @@
     ],
     "isPortuguese": false,
     "category": "Polka",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 141,
@@ -1757,7 +2058,8 @@
     ],
     "isPortuguese": false,
     "category": "Polka",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 142,
@@ -1768,7 +2070,8 @@
     ],
     "isPortuguese": false,
     "category": "Polska",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 143,
@@ -1779,7 +2082,8 @@
     ],
     "isPortuguese": false,
     "category": "Polska",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 144,
@@ -1790,7 +2094,10 @@
     ],
     "isPortuguese": false,
     "category": "Polska",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 145,
@@ -1801,7 +2108,8 @@
     ],
     "isPortuguese": false,
     "category": "Polska",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 146,
@@ -1812,7 +2120,8 @@
     ],
     "isPortuguese": false,
     "category": "Polska",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 147,
@@ -1825,7 +2134,10 @@
     "category": "Reel",
     "subcategories": [
       "Continental Europeu"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 148,
@@ -1838,7 +2150,10 @@
     "category": "Reel",
     "subcategories": [
       "Escoces"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 149,
@@ -1851,7 +2166,8 @@
     "category": "Reel",
     "subcategories": [
       "Escoces"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 150,
@@ -1864,7 +2180,13 @@
     "category": "Reel",
     "subcategories": [
       "Escoces"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2019-10-27",
+      "originalFormat": "musicxml",
+      "workNumber": "The De'il Amang the Tailors",
+      "workTitle": "Eightsome Reel"
+    }
   },
   {
     "number": 151,
@@ -1875,7 +2197,8 @@
     ],
     "isPortuguese": false,
     "category": "Rigodon",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 152,
@@ -1888,7 +2211,8 @@
     "category": "Ronde",
     "subcategories": [
       "Ronde a 3 passos"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 153,
@@ -1901,7 +2225,10 @@
     "category": "Ronde",
     "subcategories": [
       "Ronde du Quercy"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 154,
@@ -1914,7 +2241,10 @@
     "category": "Ronde",
     "subcategories": [
       "Ronde du Quercy"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 155,
@@ -1927,7 +2257,10 @@
     "category": "Ronde",
     "subcategories": [
       "Ronde du Quercy"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 156,
@@ -1940,7 +2273,10 @@
     "category": "Ronde",
     "subcategories": [
       "Ronde du Quercy"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 157,
@@ -1953,7 +2289,10 @@
     "category": "Rondeau",
     "subcategories": [
       "Em cadeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 158,
@@ -1966,7 +2305,10 @@
     "category": "Rondeau",
     "subcategories": [
       "Em cadeia"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 159,
@@ -1979,7 +2321,8 @@
     "category": "Rondeau",
     "subcategories": [
       "Em cadeia"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 160,
@@ -1992,7 +2335,8 @@
     "category": "Rondeau",
     "subcategories": [
       "Em pares"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 161,
@@ -2005,7 +2349,8 @@
     "category": "Rondeau",
     "subcategories": [
       "Em pares"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 162,
@@ -2016,7 +2361,8 @@
     ],
     "isPortuguese": false,
     "category": "Rumba",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 163,
@@ -2027,7 +2373,10 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 164,
@@ -2038,7 +2387,10 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 165,
@@ -2049,7 +2401,10 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 166,
@@ -2060,7 +2415,10 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 167,
@@ -2071,7 +2429,10 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 168,
@@ -2082,7 +2443,8 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 169,
@@ -2093,7 +2455,8 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 170,
@@ -2104,7 +2467,8 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 171,
@@ -2115,7 +2479,8 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 172,
@@ -2126,7 +2491,8 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 173,
@@ -2137,7 +2503,10 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 174,
@@ -2148,7 +2517,8 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 175,
@@ -2159,7 +2529,10 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 176,
@@ -2170,7 +2543,10 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 177,
@@ -2181,7 +2557,10 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 178,
@@ -2192,7 +2571,10 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 179,
@@ -2203,7 +2585,8 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 180,
@@ -2214,7 +2597,10 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 181,
@@ -2225,7 +2611,8 @@
     ],
     "isPortuguese": false,
     "category": "Scottish",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 182,
@@ -2236,7 +2623,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 183,
@@ -2247,7 +2635,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 184,
@@ -2258,7 +2647,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 185,
@@ -2269,7 +2659,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 186,
@@ -2280,7 +2671,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 187,
@@ -2291,7 +2683,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 188,
@@ -2302,7 +2695,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 189,
@@ -2313,7 +2707,11 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2019-05-08",
+      "workTitle": "Tzadik Katamar"
+    }
   },
   {
     "number": 190,
@@ -2324,7 +2722,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 191,
@@ -2335,7 +2734,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 192,
@@ -2346,7 +2746,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 193,
@@ -2357,7 +2758,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 194,
@@ -2368,7 +2770,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 195,
@@ -2379,7 +2782,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 196,
@@ -2390,7 +2794,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 197,
@@ -2401,7 +2806,11 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2019-05-08",
+      "workTitle": "Tzadik Katamar"
+    }
   },
   {
     "number": 198,
@@ -2412,7 +2821,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 199,
@@ -2423,7 +2833,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 200,
@@ -2434,7 +2845,11 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2019-05-08",
+      "workTitle": "Tzadik Katamar"
+    }
   },
   {
     "number": 201,
@@ -2445,7 +2860,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 202,
@@ -2456,7 +2872,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 203,
@@ -2467,7 +2884,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 204,
@@ -2478,7 +2896,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 205,
@@ -2489,7 +2908,11 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2019-05-08",
+      "workTitle": "Tzadik Katamar"
+    }
   },
   {
     "number": 206,
@@ -2500,7 +2923,8 @@
     ],
     "isPortuguese": false,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 207,
@@ -2511,7 +2935,8 @@
     ],
     "isPortuguese": false,
     "category": "Tarantella",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 208,
@@ -2522,7 +2947,10 @@
     ],
     "isPortuguese": false,
     "category": "Tourdion",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 209,
@@ -2533,7 +2961,10 @@
     ],
     "isPortuguese": false,
     "category": "Tricot",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 210,
@@ -2544,7 +2975,10 @@
     ],
     "isPortuguese": false,
     "category": "Tricot",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 211,
@@ -2558,7 +2992,8 @@
     "subcategories": [
       "3 tempos",
       "Lentas (slow)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 212,
@@ -2572,7 +3007,10 @@
     "subcategories": [
       "3 tempos",
       "Lentas (slow)"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 213,
@@ -2586,7 +3024,8 @@
     "subcategories": [
       "3 tempos",
       "Lentas (slow)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 214,
@@ -2600,7 +3039,12 @@
     "subcategories": [
       "3 tempos",
       "Lentas (slow)"
-    ]
+    ],
+    "labels": {
+      "composer": "Stéphane Delicq",
+      "creationDate": "2021-12-20",
+      "workTitle": "Nadiejda"
+    }
   },
   {
     "number": 215,
@@ -2614,7 +3058,13 @@
     "subcategories": [
       "3 tempos",
       "Lentas (slow)"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2019-10-27",
+      "originalFormat": "musicxml",
+      "source": "http://musescore.com/user/17068472/scores/4804561",
+      "workTitle": "The Dark Island"
+    }
   },
   {
     "number": 216,
@@ -2628,7 +3078,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 217,
@@ -2642,7 +3093,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 218,
@@ -2656,7 +3108,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 219,
@@ -2670,7 +3123,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 220,
@@ -2684,7 +3138,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 221,
@@ -2698,7 +3153,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 222,
@@ -2712,7 +3168,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 223,
@@ -2726,7 +3183,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 224,
@@ -2740,7 +3198,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 225,
@@ -2754,7 +3213,11 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2023-04-02",
+      "workTitle": "La Mal Aimable"
+    }
   },
   {
     "number": 226,
@@ -2768,7 +3231,10 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 227,
@@ -2782,7 +3248,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 228,
@@ -2796,7 +3263,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 229,
@@ -2810,7 +3278,12 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2019-10-23",
+      "originalFormat": "musicxml",
+      "workTitle": "Leaving Brittany"
+    }
   },
   {
     "number": 230,
@@ -2824,7 +3297,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 231,
@@ -2838,7 +3312,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 232,
@@ -2852,7 +3327,14 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {
+      "arranger": "Pedro Pimenta Novembro 2023",
+      "composer": "Pedro Pimenta  2019",
+      "creationDate": "2023-10-30",
+      "subtitle": "Legenda",
+      "workTitle": "Valsinha de 3"
+    }
   },
   {
     "number": 233,
@@ -2866,7 +3348,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 234,
@@ -2880,7 +3363,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 235,
@@ -2894,7 +3378,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 236,
@@ -2908,7 +3393,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 237,
@@ -2922,7 +3408,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 238,
@@ -2936,7 +3423,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 239,
@@ -2950,7 +3438,8 @@
     "subcategories": [
       "3 tempos",
       "Rapidas (fast)"
-    ]
+    ],
+    "labels": {}
   },
   {
     "number": 240,
@@ -2963,7 +3452,10 @@
     "category": "Valsas",
     "subcategories": [
       "5 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 241,
@@ -2976,7 +3468,10 @@
     "category": "Valsas",
     "subcategories": [
       "5 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 242,
@@ -2989,7 +3484,10 @@
     "category": "Valsas",
     "subcategories": [
       "5 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 243,
@@ -3002,7 +3500,10 @@
     "category": "Valsas",
     "subcategories": [
       "5 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 244,
@@ -3015,7 +3516,10 @@
     "category": "Valsas",
     "subcategories": [
       "5 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 245,
@@ -3028,7 +3532,10 @@
     "category": "Valsas",
     "subcategories": [
       "5 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 246,
@@ -3041,7 +3548,10 @@
     "category": "Valsas",
     "subcategories": [
       "5 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 247,
@@ -3054,7 +3564,10 @@
     "category": "Valsas",
     "subcategories": [
       "7 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 248,
@@ -3067,7 +3580,10 @@
     "category": "Valsas",
     "subcategories": [
       "8 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 249,
@@ -3080,7 +3596,10 @@
     "category": "Valsas",
     "subcategories": [
       "8 Tempos"
-    ]
+    ],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 250,
@@ -3091,7 +3610,8 @@
     ],
     "isPortuguese": false,
     "category": "Wiwat",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 251,
@@ -3102,7 +3622,8 @@
     ],
     "isPortuguese": false,
     "category": "Wiwat",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 252,
@@ -3113,7 +3634,8 @@
     ],
     "isPortuguese": true,
     "category": "Contradanças",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 253,
@@ -3124,7 +3646,8 @@
     ],
     "isPortuguese": true,
     "category": "Contradanças",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 254,
@@ -3135,7 +3658,8 @@
     ],
     "isPortuguese": true,
     "category": "Contradanças",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 255,
@@ -3146,7 +3670,8 @@
     ],
     "isPortuguese": true,
     "category": "Corridinho",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 256,
@@ -3157,7 +3682,10 @@
     ],
     "isPortuguese": true,
     "category": "Fado",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 257,
@@ -3168,7 +3696,10 @@
     ],
     "isPortuguese": true,
     "category": "Malhão",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 258,
@@ -3179,7 +3710,13 @@
     ],
     "isPortuguese": true,
     "category": "Malhão",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "composer": "Trad.",
+      "creationDate": "2019-10-27",
+      "originalFormat": "musicxml",
+      "workTitle": "Malhão"
+    }
   },
   {
     "number": 259,
@@ -3190,7 +3727,10 @@
     ],
     "isPortuguese": true,
     "category": "Repasseado",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 260,
@@ -3201,7 +3741,10 @@
     ],
     "isPortuguese": true,
     "category": "Repasseado",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 261,
@@ -3212,7 +3755,10 @@
     ],
     "isPortuguese": true,
     "category": "Repasseado",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 262,
@@ -3223,7 +3769,8 @@
     ],
     "isPortuguese": true,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 263,
@@ -3234,7 +3781,10 @@
     ],
     "isPortuguese": true,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 264,
@@ -3245,7 +3795,10 @@
     ],
     "isPortuguese": true,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 265,
@@ -3256,7 +3809,8 @@
     ],
     "isPortuguese": true,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 266,
@@ -3267,7 +3821,10 @@
     ],
     "isPortuguese": true,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 267,
@@ -3278,7 +3835,8 @@
     ],
     "isPortuguese": true,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 268,
@@ -3289,7 +3847,10 @@
     ],
     "isPortuguese": true,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 269,
@@ -3300,7 +3861,8 @@
     ],
     "isPortuguese": true,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 270,
@@ -3311,7 +3873,10 @@
     ],
     "isPortuguese": true,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {
+      "creationDate": "2016-01-07"
+    }
   },
   {
     "number": 271,
@@ -3322,7 +3887,8 @@
     ],
     "isPortuguese": true,
     "category": "Single",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 272,
@@ -3333,7 +3899,8 @@
     ],
     "isPortuguese": true,
     "category": "Vira",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 273,
@@ -3344,7 +3911,8 @@
     ],
     "isPortuguese": true,
     "category": "Vira",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 274,
@@ -3355,7 +3923,8 @@
     ],
     "isPortuguese": true,
     "category": "Vira",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 275,
@@ -3366,7 +3935,8 @@
     ],
     "isPortuguese": true,
     "category": "Vira",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   },
   {
     "number": 276,
@@ -3377,6 +3947,7 @@
     ],
     "isPortuguese": true,
     "category": "Vira",
-    "subcategories": []
+    "subcategories": [],
+    "labels": {}
   }
 ]
