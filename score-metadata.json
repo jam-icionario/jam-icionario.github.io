@@ -163,6 +163,8 @@
     ],
     "labels": {
       "creationDate": "2023-04-09",
+      "region": "France",
+      "type of dance": "Bourré 2T",
       "workTitle": "Bourrée à Malochet"
     }
   },
@@ -178,7 +180,10 @@
     "subcategories": [
       "2 Tempos"
     ],
-    "labels": {}
+    "labels": {
+      "region": "France",
+      "type of dance": "Bourrée 2T"
+    }
   },
   {
     "number": 14,
@@ -313,7 +318,10 @@
     "subcategories": [
       "3 Tempos"
     ],
-    "labels": {}
+    "labels": {
+      "region": "France",
+      "type of dance": "Bourrée 3T"
+    }
   },
   {
     "number": 23,
@@ -3729,7 +3737,9 @@
     "category": "Repasseado",
     "subcategories": [],
     "labels": {
-      "creationDate": "2016-01-07"
+      "creationDate": "2016-01-07",
+      "region": "Portugal",
+      "type of dance": "Repasseado"
     }
   },
   {
@@ -3743,7 +3753,9 @@
     "category": "Repasseado",
     "subcategories": [],
     "labels": {
-      "creationDate": "2016-01-07"
+      "creationDate": "2016-01-07",
+      "region": "Portugal",
+      "type of dance": "Repasseado"
     }
   },
   {
@@ -3757,7 +3769,9 @@
     "category": "Repasseado",
     "subcategories": [],
     "labels": {
-      "creationDate": "2016-01-07"
+      "creationDate": "2016-01-07",
+      "region": "Portugal",
+      "type of dance": "Repasseado"
     }
   },
   {
@@ -3900,7 +3914,10 @@
     "isPortuguese": true,
     "category": "Vira",
     "subcategories": [],
-    "labels": {}
+    "labels": {
+      "region": "Portugal",
+      "type of dance": "Vira"
+    }
   },
   {
     "number": 273,
@@ -3912,7 +3929,10 @@
     "isPortuguese": true,
     "category": "Vira",
     "subcategories": [],
-    "labels": {}
+    "labels": {
+      "region": "Portugal",
+      "type of dance": "Vira"
+    }
   },
   {
     "number": 274,
@@ -3924,7 +3944,10 @@
     "isPortuguese": true,
     "category": "Vira",
     "subcategories": [],
-    "labels": {}
+    "labels": {
+      "region": "Portugal",
+      "type of dance": "Vira"
+    }
   },
   {
     "number": 275,
@@ -3936,7 +3959,10 @@
     "isPortuguese": true,
     "category": "Vira",
     "subcategories": [],
-    "labels": {}
+    "labels": {
+      "region": "Portugal",
+      "type of dance": "Vira"
+    }
   },
   {
     "number": 276,
@@ -3948,6 +3974,9 @@
     "isPortuguese": true,
     "category": "Vira",
     "subcategories": [],
-    "labels": {}
+    "labels": {
+      "region": "Portugal",
+      "type of dance": "Vira"
+    }
   }
 ]
