@@ -6,10 +6,12 @@
     "pages": [
       "scores/An Dro - d'Alan (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "An Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "An Dro"
+    ]
   },
   {
     "number": 2,
@@ -18,10 +20,12 @@
     "pages": [
       "scores/An Dro - de Pluherlin (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "An Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "An Dro"
+    ]
   },
   {
     "number": 3,
@@ -30,10 +34,12 @@
     "pages": [
       "scores/An Dro - de Saint Nazaire (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "An Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "An Dro"
+    ]
   },
   {
     "number": 4,
@@ -42,10 +48,12 @@
     "pages": [
       "scores/An Dro - Dos An Triskell (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "An Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "An Dro"
+    ]
   },
   {
     "number": 5,
@@ -54,10 +62,12 @@
     "pages": [
       "scores/An Dro - Jan Mijne (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "An Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "An Dro"
+    ]
   },
   {
     "number": 6,
@@ -66,12 +76,14 @@
     "pages": [
       "scores/An Dro - Kerfank (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "An Dro",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "An Dro"
+    ]
   },
   {
     "number": 7,
@@ -80,10 +92,12 @@
     "pages": [
       "scores/An Dro - Saint Patrick's (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "An Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "An Dro"
+    ]
   },
   {
     "number": 8,
@@ -92,12 +106,14 @@
     "pages": [
       "scores/An Dro - Sem titulo #1 (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "An Dro",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "An Dro"
+    ]
   },
   {
     "number": 9,
@@ -106,10 +122,12 @@
     "pages": [
       "scores/An Dro - Triolan (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "An Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "An Dro"
+    ]
   },
   {
     "number": 10,
@@ -118,9 +136,8 @@
     "pages": [
       "scores/Arin Arin - #1 (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Arin Arin",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "arranger": "JMiB",
       "composer": "Trad Gascogne",
@@ -128,7 +145,10 @@
       "creationDate": "2023-08-24",
       "source": "http://musescore.com/user/5476331/scores/13708690",
       "workTitle": "Arin-Arin"
-    }
+    },
+    "folderStructure": [
+      "Arin Arin"
+    ]
   },
   {
     "number": 11,
@@ -137,9 +157,8 @@
     "pages": [
       "scores/Arin Arin - Quebec (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Arin Arin",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "arranger": "JMiB",
       "composer": "Trad Gascogne",
@@ -147,7 +166,10 @@
       "creationDate": "2023-08-24",
       "source": "http://musescore.com/user/5476331/scores/13708690",
       "workTitle": "Arin-Arin"
-    }
+    },
+    "folderStructure": [
+      "Arin Arin"
+    ]
   },
   {
     "number": 12,
@@ -156,17 +178,16 @@
     "pages": [
       "scores/Bourrée 2T - à Malochet (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
-      "2 Tempos"
-    ],
+    "region": "France",
+    "typeOfDance": "Bourrée",
     "labels": {
       "creationDate": "2023-04-09",
-      "region": "France",
-      "type of dance": "Bourré 2T",
       "workTitle": "Bourrée à Malochet"
-    }
+    },
+    "folderStructure": [
+      "Bourrée",
+      "2 Tempos"
+    ]
   },
   {
     "number": 13,
@@ -175,15 +196,13 @@
     "pages": [
       "scores/Bourree 2T - Aurore Sand (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
+    "region": "France",
+    "typeOfDance": "Bourrée",
+    "labels": {},
+    "folderStructure": [
+      "Bourrée",
       "2 Tempos"
-    ],
-    "labels": {
-      "region": "France",
-      "type of dance": "Bourrée 2T"
-    }
+    ]
   },
   {
     "number": 14,
@@ -192,15 +211,16 @@
     "pages": [
       "scores/Bourrée 2T - Bourrée de Montserrat (Jamicionário)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
-      "2 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2023-04-09",
       "workTitle": "Bourrée à Malochet"
-    }
+    },
+    "folderStructure": [
+      "Bourrée",
+      "2 Tempos"
+    ]
   },
   {
     "number": 15,
@@ -209,15 +229,16 @@
     "pages": [
       "scores/Bourrée 2T - de Montford (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
-      "2 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2023-04-09",
       "workTitle": "Bourrée à Malochet"
-    }
+    },
+    "folderStructure": [
+      "Bourrée",
+      "2 Tempos"
+    ]
   },
   {
     "number": 16,
@@ -226,12 +247,13 @@
     "pages": [
       "scores/Bourrée 2T - Kerleguer (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bourrée",
       "2 Tempos"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 17,
@@ -240,12 +262,13 @@
     "pages": [
       "scores/Bourrée 2T - L'ombre verte (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bourrée",
       "2 Tempos"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 18,
@@ -254,12 +277,13 @@
     "pages": [
       "scores/Bourree 2T - La dansarem pas pus (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bourrée",
       "2 Tempos"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 19,
@@ -268,12 +292,13 @@
     "pages": [
       "scores/Bourrée 2T - Last chance (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bourrée",
       "2 Tempos"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 20,
@@ -282,15 +307,16 @@
     "pages": [
       "scores/Bourrée 2T - Marilou (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
-      "2 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2023-04-09",
       "workTitle": "Bourrée à Malochet"
-    }
+    },
+    "folderStructure": [
+      "Bourrée",
+      "2 Tempos"
+    ]
   },
   {
     "number": 21,
@@ -299,12 +325,13 @@
     "pages": [
       "scores/Bourree 2T - Marrakech (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bourrée",
       "2 Tempos"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 22,
@@ -313,15 +340,13 @@
     "pages": [
       "scores/Bourée 3T - Les poules houpées (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
+    "region": "France",
+    "typeOfDance": "Bourrée",
+    "labels": {},
+    "folderStructure": [
+      "Bourrée",
       "3 Tempos"
-    ],
-    "labels": {
-      "region": "France",
-      "type of dance": "Bourrée 3T"
-    }
+    ]
   },
   {
     "number": 23,
@@ -330,14 +355,15 @@
     "pages": [
       "scores/Bourrée 3T - Des gars (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
-      "3 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bourrée",
+      "3 Tempos"
+    ]
   },
   {
     "number": 24,
@@ -346,14 +372,15 @@
     "pages": [
       "scores/Bourrée 3T - Koffeinmentes (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
-      "3 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bourrée",
+      "3 Tempos"
+    ]
   },
   {
     "number": 25,
@@ -362,14 +389,15 @@
     "pages": [
       "scores/Bourrée 3T - Ma maitraisse (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bourrée",
-    "subcategories": [
-      "3 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bourrée",
+      "3 Tempos"
+    ]
   },
   {
     "number": 26,
@@ -378,17 +406,18 @@
     "pages": [
       "scores/Bransle italiana - Sbrando (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "Brando (Bransle italiana)"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2019-10-26",
       "originalFormat": "musicxml",
       "source": "http://musescore.com/user/10636897/scores/5135548",
       "workTitle": "Sbrando"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "Brando (Bransle italiana)"
+    ]
   },
   {
     "number": 27,
@@ -397,12 +426,13 @@
     "pages": [
       "scores/Bransle d'Ossau - Civada (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bransle",
       "D'Ossau"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 28,
@@ -411,12 +441,13 @@
     "pages": [
       "scores/Bransle d'Ossau - Les 3 cailloux (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bransle",
       "D'Ossau"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 29,
@@ -425,15 +456,16 @@
     "pages": [
       "scores/Bransle - De Noirmoutier #11 (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "De Noirmoutier",
-      "Bransle de Noirmoutier - Suite 1"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "De Noirmoutier",
+      "Bransle de Noirmoutier - Suite 1"
+    ]
   },
   {
     "number": 30,
@@ -442,15 +474,16 @@
     "pages": [
       "scores/Bransle - De Noirmoutier #12 (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "De Noirmoutier",
-      "Bransle de Noirmoutier - Suite 1"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "De Noirmoutier",
+      "Bransle de Noirmoutier - Suite 1"
+    ]
   },
   {
     "number": 31,
@@ -459,15 +492,16 @@
     "pages": [
       "scores/Bransle - De Noirmoutier #13 (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "De Noirmoutier",
-      "Bransle de Noirmoutier - Suite 1"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "De Noirmoutier",
+      "Bransle de Noirmoutier - Suite 1"
+    ]
   },
   {
     "number": 32,
@@ -476,15 +510,16 @@
     "pages": [
       "scores/Bransle - De Noirmoutier #21 (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "De Noirmoutier",
-      "Bransle de Noirmoutier - Suite 2"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "De Noirmoutier",
+      "Bransle de Noirmoutier - Suite 2"
+    ]
   },
   {
     "number": 33,
@@ -493,15 +528,16 @@
     "pages": [
       "scores/Bransle - De Noirmoutier #22 (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "De Noirmoutier",
-      "Bransle de Noirmoutier - Suite 2"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "De Noirmoutier",
+      "Bransle de Noirmoutier - Suite 2"
+    ]
   },
   {
     "number": 34,
@@ -510,14 +546,15 @@
     "pages": [
       "scores/Bransle - De la fosse aux loups (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "Modernas"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "Modernas"
+    ]
   },
   {
     "number": 35,
@@ -526,14 +563,15 @@
     "pages": [
       "scores/Bransle Renascentista - Da Escócia (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "Renascentistas"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "Renascentistas"
+    ]
   },
   {
     "number": 36,
@@ -542,14 +580,15 @@
     "pages": [
       "scores/Bransle Renascentista - de la Montarde (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "Renascentistas"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "Renascentistas"
+    ]
   },
   {
     "number": 37,
@@ -558,14 +597,15 @@
     "pages": [
       "scores/Bransle Renascentista - de la Torche (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "Renascentistas"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "Renascentistas"
+    ]
   },
   {
     "number": 38,
@@ -574,14 +614,15 @@
     "pages": [
       "scores/Bransle Renascentista - Dos cavalos (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "Renascentistas"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "Renascentistas"
+    ]
   },
   {
     "number": 39,
@@ -590,12 +631,13 @@
     "pages": [
       "scores/Bransle Renascentista - du rat (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bransle",
       "Renascentistas"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 40,
@@ -604,14 +646,15 @@
     "pages": [
       "scores/Bransle Renascentista - Pinagay (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Bransle",
-    "subcategories": [
-      "Renascentistas"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Bransle",
+      "Renascentistas"
+    ]
   },
   {
     "number": 41,
@@ -620,12 +663,13 @@
     "pages": [
       "scores/Circulo - Cleveland park Jig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Britanicos"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 42,
@@ -634,12 +678,13 @@
     "pages": [
       "scores/Circulo - Horizonto (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Britanicos"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 43,
@@ -648,12 +693,13 @@
     "pages": [
       "scores/Circulo - Jump at the sun Jig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Britanicos"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 44,
@@ -662,12 +708,13 @@
     "pages": [
       "scores/Circulo - The sailor's wife (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Britanicos"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 45,
@@ -676,12 +723,13 @@
     "pages": [
       "scores/Circulo:Chappeloise - Hunting the squirrel Jig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Britanicos"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 46,
@@ -690,12 +738,13 @@
     "pages": [
       "scores/Circulo - Cercle des ronds (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs continentais europeus"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 47,
@@ -704,12 +753,13 @@
     "pages": [
       "scores/Circulo - Kreisverkher (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs continentais europeus"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 48,
@@ -718,14 +768,15 @@
     "pages": [
       "scores/Círculo - Muriñeira (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
-      "Jigs continentais europeus"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Circulo & Chappeloise",
+      "Jigs continentais europeus"
+    ]
   },
   {
     "number": 49,
@@ -734,12 +785,13 @@
     "pages": [
       "scores/Circulo - Zelda (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs continentais europeus"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 50,
@@ -748,12 +800,13 @@
     "pages": [
       "scores/Circulo:Chappeloise - Gaspacho (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs continentais europeus"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 51,
@@ -762,12 +815,13 @@
     "pages": [
       "scores/Circulo - Blarney pilgrim (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Irlandeses"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 52,
@@ -776,12 +830,13 @@
     "pages": [
       "scores/Circulo - Crabs in the skillet Jig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Irlandeses"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 53,
@@ -790,12 +845,13 @@
     "pages": [
       "scores/Circulo - Get up old woman & shake yourself Jig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Irlandeses"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 54,
@@ -804,12 +860,13 @@
     "pages": [
       "scores/Circulo - Go to the devil & shake yourself Jig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Irlandeses"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 55,
@@ -818,12 +875,13 @@
     "pages": [
       "scores/Circulo - Out in the ocean Jig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Irlandeses"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 56,
@@ -832,12 +890,13 @@
     "pages": [
       "scores/Circulo - Smash the windows Jig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Irlandeses"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 57,
@@ -846,12 +905,13 @@
     "pages": [
       "scores/Circulo - The absent-minded man Jig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Irlandeses"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 58,
@@ -860,12 +920,13 @@
     "pages": [
       "scores/Circulo - The cliifs of Moher Jig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Irlandeses"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 59,
@@ -874,12 +935,13 @@
     "pages": [
       "scores/Circulo - The dancing master (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Irlandeses"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 60,
@@ -888,12 +950,13 @@
     "pages": [
       "scores/Circulo - The Kesh Jig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Jigs Irlandeses"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 61,
@@ -902,14 +965,15 @@
     "pages": [
       "scores/Chappeloise Pop - Amigos do Gaspar (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
-      "Temas Pop"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Circulo & Chappeloise",
+      "Temas Pop"
+    ]
   },
   {
     "number": 62,
@@ -918,14 +982,15 @@
     "pages": [
       "scores/Chappeloise Pop - Dartacão (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
-      "Temas Pop"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Circulo & Chappeloise",
+      "Temas Pop"
+    ]
   },
   {
     "number": 63,
@@ -934,14 +999,15 @@
     "pages": [
       "scores/Chappeloise Pop - É tao bom (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
-      "Temas Pop"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Circulo & Chappeloise",
+      "Temas Pop"
+    ]
   },
   {
     "number": 64,
@@ -950,12 +1016,13 @@
     "pages": [
       "scores/Chappeloise Pop - Les Cités d'Or (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Circulo & Chappeloise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
       "Temas Pop"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 65,
@@ -964,10 +1031,12 @@
     "pages": [
       "scores/Congo - Au Castèth de Monsur Montèth (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Congo",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Congo"
+    ]
   },
   {
     "number": 66,
@@ -976,10 +1045,12 @@
     "pages": [
       "scores/Congo - Congo des Captieux (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Congo",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Congo"
+    ]
   },
   {
     "number": 67,
@@ -988,10 +1059,12 @@
     "pages": [
       "scores/Congo - de Marcel Lagardere (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Congo",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Congo"
+    ]
   },
   {
     "number": 68,
@@ -1000,10 +1073,12 @@
     "pages": [
       "scores/Congo - Man Encantada (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Congo",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Congo"
+    ]
   },
   {
     "number": 69,
@@ -1012,10 +1087,12 @@
     "pages": [
       "scores/Congo - Sem título #1 (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Congo",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Congo"
+    ]
   },
   {
     "number": 70,
@@ -1024,16 +1101,18 @@
     "pages": [
       "scores/Fandango - Albiztur (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Fandango",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "composer": "Trad.",
       "copyright": "JMiB 20220314 - Tablature accordéon diatonique Sol/Do",
       "creationDate": "20220314",
       "source": "http://musescore.com/user/5476331/scores/7717283",
       "workTitle": "Fandango"
-    }
+    },
+    "folderStructure": [
+      "Fandango"
+    ]
   },
   {
     "number": 71,
@@ -1042,14 +1121,15 @@
     "pages": [
       "scores/Gavotte bretã - War devenn Sant Pabu (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Gavotte",
-    "subcategories": [
-      "Gavotte bretã"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte bretã"
+    ]
   },
   {
     "number": 72,
@@ -1058,14 +1138,15 @@
     "pages": [
       "scores/Gavotte de Grenoble - Berceuse pour un loulou (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Gavotte",
-    "subcategories": [
-      "Gavotte de Grenoble"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
   },
   {
     "number": 73,
@@ -1074,14 +1155,15 @@
     "pages": [
       "scores/Gavotte de Grenoble - Fiif (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Gavotte",
-    "subcategories": [
-      "Gavotte de Grenoble"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
   },
   {
     "number": 74,
@@ -1090,14 +1172,15 @@
     "pages": [
       "scores/Gavotte de Grenoble - Flower of Magherally (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Gavotte",
-    "subcategories": [
-      "Gavotte de Grenoble"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
   },
   {
     "number": 75,
@@ -1106,14 +1189,15 @@
     "pages": [
       "scores/Gavotte de Grenoble - Frank Thornton’s highland fling (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Gavotte",
-    "subcategories": [
-      "Gavotte de Grenoble"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
   },
   {
     "number": 76,
@@ -1122,14 +1206,15 @@
     "pages": [
       "scores/Gavotte de Grenoble - Gavotte de l'Alzen (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Gavotte",
-    "subcategories": [
-      "Gavotte de Grenoble"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
   },
   {
     "number": 77,
@@ -1138,14 +1223,15 @@
     "pages": [
       "scores/Gavotte de Grenoble - Ivoirine (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Gavotte",
-    "subcategories": [
-      "Gavotte de Grenoble"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
   },
   {
     "number": 78,
@@ -1154,14 +1240,15 @@
     "pages": [
       "scores/Gavotte de Grenoble - Merry Christmas mister Lawrence (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Gavotte",
-    "subcategories": [
-      "Gavotte de Grenoble"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
   },
   {
     "number": 79,
@@ -1170,14 +1257,15 @@
     "pages": [
       "scores/Gavotte de Grenoble - Mira (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Gavotte",
-    "subcategories": [
-      "Gavotte de Grenoble"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
   },
   {
     "number": 80,
@@ -1186,18 +1274,19 @@
     "pages": [
       "scores/Gavotte de Grenoble - Very Jeune (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Gavotte",
-    "subcategories": [
-      "Gavotte de Grenoble"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "composer": "Hartwin Dhoore",
       "creationDate": "2024-02-28",
       "originalFormat": "xml",
       "source": "http://musescore.com/user/79422538/scores/14664298",
       "workTitle": "Very Jeune"
-    }
+    },
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
   },
   {
     "number": 81,
@@ -1206,12 +1295,14 @@
     "pages": [
       "scores/Halay - Damat Havasi (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Halay",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Halay"
+    ]
   },
   {
     "number": 82,
@@ -1220,10 +1311,12 @@
     "pages": [
       "scores/Hanter Dro - Calimero (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Hanter Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Hanter Dro"
+    ]
   },
   {
     "number": 83,
@@ -1232,10 +1325,12 @@
     "pages": [
       "scores/Hanter Dro - De Languidig (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Hanter Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Hanter Dro"
+    ]
   },
   {
     "number": 84,
@@ -1244,12 +1339,14 @@
     "pages": [
       "scores/Hanter Dro - Duhont'ar Ar Mane (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Hanter Dro",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Hanter Dro"
+    ]
   },
   {
     "number": 85,
@@ -1258,12 +1355,14 @@
     "pages": [
       "scores/Hanter Dro - Flying Porto (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Hanter Dro",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Hanter Dro"
+    ]
   },
   {
     "number": 86,
@@ -1272,12 +1371,14 @@
     "pages": [
       "scores/Hanter Dro - Hanterdrone (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Hanter Dro",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Hanter Dro"
+    ]
   },
   {
     "number": 87,
@@ -1286,10 +1387,12 @@
     "pages": [
       "scores/Hanter Dro - Kabalerien (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Hanter Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Hanter Dro"
+    ]
   },
   {
     "number": 88,
@@ -1298,10 +1401,12 @@
     "pages": [
       "scores/Hanter Dro - La belle dame (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Hanter Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Hanter Dro"
+    ]
   },
   {
     "number": 89,
@@ -1310,12 +1415,14 @@
     "pages": [
       "scores/Hanter Dro - Nothing hill (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Hanter Dro",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Hanter Dro"
+    ]
   },
   {
     "number": 90,
@@ -1324,10 +1431,12 @@
     "pages": [
       "scores/Hanter Dro - Paumes d'amour (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Hanter Dro",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Hanter Dro"
+    ]
   },
   {
     "number": 91,
@@ -1336,12 +1445,14 @@
     "pages": [
       "scores/Hanter Dro - Pera Verde (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Hanter Dro",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Hanter Dro"
+    ]
   },
   {
     "number": 92,
@@ -1350,10 +1461,12 @@
     "pages": [
       "scores/Hasapiko - Nostalgico (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Hasapiko",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Hasapiko"
+    ]
   },
   {
     "number": 93,
@@ -1362,12 +1475,14 @@
     "pages": [
       "scores/Lambada - Llorando se fue (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Lambada",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Lambada"
+    ]
   },
   {
     "number": 94,
@@ -1376,13 +1491,15 @@
     "pages": [
       "scores/Madison - French Connexions (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Madison",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2019-05-08",
       "workTitle": "Tzadik Katamar"
-    }
+    },
+    "folderStructure": [
+      "Madison"
+    ]
   },
   {
     "number": 95,
@@ -1391,13 +1508,15 @@
     "pages": [
       "scores/Madison - Wizard's walk (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Madison",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2019-05-08",
       "workTitle": "Tzadik Katamar"
-    }
+    },
+    "folderStructure": [
+      "Madison"
+    ]
   },
   {
     "number": 96,
@@ -1406,12 +1525,13 @@
     "pages": [
       "scores/Maraichine - #11 Ciac Boum (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Maraichine",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Maraichine",
       "Maraichine - Suite 1 (Ciac Boum)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 97,
@@ -1420,12 +1540,13 @@
     "pages": [
       "scores/Maraichine - #12 Ciac Boum (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Maraichine",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Maraichine",
       "Maraichine - Suite 1 (Ciac Boum)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 98,
@@ -1434,12 +1555,13 @@
     "pages": [
       "scores/Maraichine - #13 Ciac Boum (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Maraichine",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Maraichine",
       "Maraichine - Suite 1 (Ciac Boum)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 99,
@@ -1448,12 +1570,13 @@
     "pages": [
       "scores/Marchoise - #11 Guerbigny (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Marchoise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Marchoise",
       "Marchoise - suite 1 (Guerbigny)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 100,
@@ -1462,12 +1585,13 @@
     "pages": [
       "scores/Marchoise - #12 Guerbigny (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Marchoise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Marchoise",
       "Marchoise - suite 1 (Guerbigny)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 101,
@@ -1476,12 +1600,13 @@
     "pages": [
       "scores/Marchoise - #13 Guerbigny (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Marchoise",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Marchoise",
       "Marchoise - suite 1 (Guerbigny)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 102,
@@ -1490,16 +1615,17 @@
     "pages": [
       "scores/Mazurka CV - Raquel (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Cabo Verdiana"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "composer": "Stéphane Delicq",
       "creationDate": "2021-12-20",
       "workTitle": "Nadiejda"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Cabo Verdiana"
+    ]
   },
   {
     "number": 103,
@@ -1508,12 +1634,13 @@
     "pages": [
       "scores/Mazurka - A bruxa (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 104,
@@ -1522,12 +1649,13 @@
     "pages": [
       "scores/Mazurka - À Clement (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 105,
@@ -1536,14 +1664,15 @@
     "pages": [
       "scores/Mazurka - Aggie's (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 106,
@@ -1552,14 +1681,15 @@
     "pages": [
       "scores/Mazurka - Alio (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 107,
@@ -1568,12 +1698,13 @@
     "pages": [
       "scores/Mazurka - Almofada (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 108,
@@ -1582,12 +1713,13 @@
     "pages": [
       "scores/Mazurka - Au bord de l'eau (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 109,
@@ -1596,12 +1728,13 @@
     "pages": [
       "scores/Mazurka - Biqueiras d'aço (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 110,
@@ -1610,14 +1743,15 @@
     "pages": [
       "scores/Mazurka - Bonnie at morn (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 111,
@@ -1626,12 +1760,13 @@
     "pages": [
       "scores/Mazurka - Candela (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 112,
@@ -1640,14 +1775,15 @@
     "pages": [
       "scores/Mazurka - Des Tuileries (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 113,
@@ -1656,12 +1792,13 @@
     "pages": [
       "scores/Mazurka - Far away (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 114,
@@ -1670,12 +1807,13 @@
     "pages": [
       "scores/Mazurka - Il neige a Porto (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 115,
@@ -1684,12 +1822,13 @@
     "pages": [
       "scores/Mazurka - Italienne (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 116,
@@ -1698,14 +1837,15 @@
     "pages": [
       "scores/Mazurka - Je soi perdut (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 117,
@@ -1714,12 +1854,13 @@
     "pages": [
       "scores/Mazurka - L'impasse (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 118,
@@ -1728,16 +1869,17 @@
     "pages": [
       "scores/Mazurka - La discrète (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "composer": "Stéphane Delicq",
       "creationDate": "2021-12-21",
       "workTitle": "La Discrète"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 119,
@@ -1746,12 +1888,13 @@
     "pages": [
       "scores/Mazurka - La nonchalante (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 120,
@@ -1760,12 +1903,13 @@
     "pages": [
       "scores/Mazurka - La p'tite fée (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 121,
@@ -1774,12 +1918,13 @@
     "pages": [
       "scores/Mazurka - Les écoliers de Saint Genest (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 122,
@@ -1788,14 +1933,15 @@
     "pages": [
       "scores/Mazurka - Lisbonne (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 123,
@@ -1804,14 +1950,15 @@
     "pages": [
       "scores/Mazurka - Mazurka Choro (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 124,
@@ -1820,12 +1967,13 @@
     "pages": [
       "scores/Mazurka - Moda a 2 Passos (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 125,
@@ -1834,14 +1982,15 @@
     "pages": [
       "scores/Mazurka - Motorway (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 126,
@@ -1850,12 +1999,13 @@
     "pages": [
       "scores/Mazurka - Mouchti (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 127,
@@ -1864,12 +2014,13 @@
     "pages": [
       "scores/Mazurka - Musike (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 128,
@@ -1878,16 +2029,17 @@
     "pages": [
       "scores/Mazurka - Nadiejda (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "composer": "Stéphane Delicq",
       "creationDate": "2021-12-20",
       "workTitle": "Nadiejda"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 129,
@@ -1896,14 +2048,15 @@
     "pages": [
       "scores/Mazurka - Natzurka (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 130,
@@ -1912,12 +2065,13 @@
     "pages": [
       "scores/Mazurka - Nina (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 131,
@@ -1926,12 +2080,13 @@
     "pages": [
       "scores/Mazurka - Solitude (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
       "Europeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 132,
@@ -1940,14 +2095,15 @@
     "pages": [
       "scores/Mazurka - Sonny Brogan's (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 133,
@@ -1956,14 +2112,15 @@
     "pages": [
       "scores/Mazurka - Tourbillonne (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 134,
@@ -1972,14 +2129,15 @@
     "pages": [
       "scores/Mazurka - Trafic d'orgasmes (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Mazurka",
-    "subcategories": [
-      "Europeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
   },
   {
     "number": 135,
@@ -1988,14 +2146,16 @@
     "pages": [
       "scores/Muñeira - A camposa (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Muñeira",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2019-10-23",
       "originalFormat": "musicxml",
       "workTitle": "Muineira Da Camposa"
-    }
+    },
+    "folderStructure": [
+      "Muñeira"
+    ]
   },
   {
     "number": 136,
@@ -2004,10 +2164,12 @@
     "pages": [
       "scores/Muñeira - De Chantada (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Muñeira",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Muñeira"
+    ]
   },
   {
     "number": 137,
@@ -2016,10 +2178,12 @@
     "pages": [
       "scores/Muñeira - De Ponte Sampaio (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Muñeira",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Muñeira"
+    ]
   },
   {
     "number": 138,
@@ -2028,10 +2192,12 @@
     "pages": [
       "scores/Polka - John Egan's (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Polka",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Polka"
+    ]
   },
   {
     "number": 139,
@@ -2040,10 +2206,12 @@
     "pages": [
       "scores/Polka - L'Elan (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Polka",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Polka"
+    ]
   },
   {
     "number": 140,
@@ -2052,10 +2220,12 @@
     "pages": [
       "scores/Polka - The Ballydesmond 1 (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Polka",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Polka"
+    ]
   },
   {
     "number": 141,
@@ -2064,10 +2234,12 @@
     "pages": [
       "scores/Polka - The Ballydesmond 2 (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Polka",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Polka"
+    ]
   },
   {
     "number": 142,
@@ -2076,10 +2248,12 @@
     "pages": [
       "scores/Polska - Efter Kings Selma (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Polska",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Polska"
+    ]
   },
   {
     "number": 143,
@@ -2088,10 +2262,12 @@
     "pages": [
       "scores/Polska - Flodens dod (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Polska",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Polska"
+    ]
   },
   {
     "number": 144,
@@ -2100,12 +2276,14 @@
     "pages": [
       "scores/Polska - Krus Polska (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Polska",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Polska"
+    ]
   },
   {
     "number": 145,
@@ -2114,10 +2292,12 @@
     "pages": [
       "scores/Slangpolska - Från Barsebäck (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Polska",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Polska"
+    ]
   },
   {
     "number": 146,
@@ -2126,10 +2306,12 @@
     "pages": [
       "scores/Slangpolska - Från Halleforsnas (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Polska",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Polska"
+    ]
   },
   {
     "number": 147,
@@ -2138,14 +2320,15 @@
     "pages": [
       "scores/Reel - Farewell to Chernobyl (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Reel",
-    "subcategories": [
-      "Continental Europeu"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Reel",
+      "Continental Europeu"
+    ]
   },
   {
     "number": 148,
@@ -2154,14 +2337,15 @@
     "pages": [
       "scores/Reel - Pachelbel's Frolicks (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Reel",
-    "subcategories": [
-      "Escoces"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Reel",
+      "Escoces"
+    ]
   },
   {
     "number": 149,
@@ -2170,12 +2354,13 @@
     "pages": [
       "scores/Reel - The Ballivanich Reel (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Reel",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Reel",
       "Escoces"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 150,
@@ -2184,17 +2369,18 @@
     "pages": [
       "scores/Reel - The eightsome (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Reel",
-    "subcategories": [
-      "Escoces"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2019-10-27",
       "originalFormat": "musicxml",
       "workNumber": "The De'il Amang the Tailors",
       "workTitle": "Eightsome Reel"
-    }
+    },
+    "folderStructure": [
+      "Reel",
+      "Escoces"
+    ]
   },
   {
     "number": 151,
@@ -2203,10 +2389,12 @@
     "pages": [
       "scores/Rigodon - L'âne (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Rigodon",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Rigodon"
+    ]
   },
   {
     "number": 152,
@@ -2215,12 +2403,13 @@
     "pages": [
       "scores/Ronde a 3 passos - Tri Martolod (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Ronde",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Ronde",
       "Ronde a 3 passos"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 153,
@@ -2229,14 +2418,15 @@
     "pages": [
       "scores/Ronde du Quercy - Amazone (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Ronde",
-    "subcategories": [
-      "Ronde du Quercy"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Ronde",
+      "Ronde du Quercy"
+    ]
   },
   {
     "number": 154,
@@ -2245,14 +2435,15 @@
     "pages": [
       "scores/Ronde du Quercy - De bon matin (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Ronde",
-    "subcategories": [
-      "Ronde du Quercy"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Ronde",
+      "Ronde du Quercy"
+    ]
   },
   {
     "number": 155,
@@ -2261,14 +2452,15 @@
     "pages": [
       "scores/Ronde du Quercy - Dejol pont de Lion (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Ronde",
-    "subcategories": [
-      "Ronde du Quercy"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Ronde",
+      "Ronde du Quercy"
+    ]
   },
   {
     "number": 156,
@@ -2277,14 +2469,15 @@
     "pages": [
       "scores/Ronde du Quercy - Dessous la grava de Bordeu (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Ronde",
-    "subcategories": [
-      "Ronde du Quercy"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Ronde",
+      "Ronde du Quercy"
+    ]
   },
   {
     "number": 157,
@@ -2293,14 +2486,15 @@
     "pages": [
       "scores/Rondeau em cadeia - KC (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Rondeau",
-    "subcategories": [
-      "Em cadeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Rondeau",
+      "Em cadeia"
+    ]
   },
   {
     "number": 158,
@@ -2309,14 +2503,15 @@
     "pages": [
       "scores/Rondeau em cadeia - L'oeil du cyclone (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Rondeau",
-    "subcategories": [
-      "Em cadeia"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Rondeau",
+      "Em cadeia"
+    ]
   },
   {
     "number": 159,
@@ -2325,12 +2520,13 @@
     "pages": [
       "scores/Rondeau em cadeia - Valhermeil (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Rondeau",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Rondeau",
       "Em cadeia"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 160,
@@ -2339,12 +2535,13 @@
     "pages": [
       "scores/Rondeau a pares - O homem da lua (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Rondeau",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Rondeau",
       "Em pares"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 161,
@@ -2353,12 +2550,13 @@
     "pages": [
       "scores/Rondeau a pares - Safi (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Rondeau",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Rondeau",
       "Em pares"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 162,
@@ -2367,10 +2565,12 @@
     "pages": [
       "scores/Rumba - Dos cinco mariñeiros (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Rumba",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Rumba"
+    ]
   },
   {
     "number": 163,
@@ -2379,12 +2579,14 @@
     "pages": [
       "scores/Scottish - À l'amante (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 164,
@@ -2393,12 +2595,14 @@
     "pages": [
       "scores/Scottish - Autumn Leaves (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 165,
@@ -2407,12 +2611,14 @@
     "pages": [
       "scores/Scottish - Brittish Swing (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 166,
@@ -2421,12 +2627,14 @@
     "pages": [
       "scores/Scottish - Du 29 de mars (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 167,
@@ -2435,12 +2643,14 @@
     "pages": [
       "scores/Scottish - Du Taraf (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 168,
@@ -2449,10 +2659,12 @@
     "pages": [
       "scores/Scottish - Esperanza (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 169,
@@ -2461,10 +2673,12 @@
     "pages": [
       "scores/Scottish - Finlandaise (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 170,
@@ -2473,10 +2687,12 @@
     "pages": [
       "scores/Scottish - Go Mauve (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 171,
@@ -2485,10 +2701,12 @@
     "pages": [
       "scores/Scottish - Hellebore (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 172,
@@ -2497,10 +2715,12 @@
     "pages": [
       "scores/Scottish - La Sansonette (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 173,
@@ -2509,12 +2729,14 @@
     "pages": [
       "scores/Scottish - Le Lezard (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 174,
@@ -2523,10 +2745,12 @@
     "pages": [
       "scores/Scottish - Les beaux jours (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 175,
@@ -2535,12 +2759,14 @@
     "pages": [
       "scores/Scottish - Luquejada (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 176,
@@ -2549,12 +2775,14 @@
     "pages": [
       "scores/Scottish - Lydienne (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 177,
@@ -2563,12 +2791,14 @@
     "pages": [
       "scores/Scottish - Pink Molly (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 178,
@@ -2577,12 +2807,14 @@
     "pages": [
       "scores/Scottish - Popcorn behaviour (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 179,
@@ -2591,10 +2823,12 @@
     "pages": [
       "scores/Scottish - Too late to sleep (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 180,
@@ -2603,12 +2837,14 @@
     "pages": [
       "scores/Scottish - Trip to Pakistan (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 181,
@@ -2617,10 +2853,12 @@
     "pages": [
       "scores/Scottish - Trip to Prague (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Scottish",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Scottish"
+    ]
   },
   {
     "number": 182,
@@ -2629,10 +2867,12 @@
     "pages": [
       "scores/Single - 7 Saltos (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 183,
@@ -2641,10 +2881,12 @@
     "pages": [
       "scores/Single - Alunelul (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 184,
@@ -2653,10 +2895,12 @@
     "pages": [
       "scores/Single - Ambee Dageets (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 185,
@@ -2665,10 +2909,12 @@
     "pages": [
       "scores/Single - Carnaval de Lanz (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 186,
@@ -2677,10 +2923,12 @@
     "pages": [
       "scores/Single - Cochinchine (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 187,
@@ -2689,10 +2937,12 @@
     "pages": [
       "scores/Single - Dança do Urso (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 188,
@@ -2701,10 +2951,12 @@
     "pages": [
       "scores/Single - Dansul pinguinului (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 189,
@@ -2713,13 +2965,15 @@
     "pages": [
       "scores/Single - Drumul Dracului (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2019-05-08",
       "workTitle": "Tzadik Katamar"
-    }
+    },
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 190,
@@ -2728,10 +2982,12 @@
     "pages": [
       "scores/Single - El sueño de la hija del rey (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 191,
@@ -2740,10 +2996,12 @@
     "pages": [
       "scores/Single - Gunesim (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 192,
@@ -2752,10 +3010,12 @@
     "pages": [
       "scores/Single - Hora Medura (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 193,
@@ -2764,10 +3024,12 @@
     "pages": [
       "scores/Single - Koce Berberot (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 194,
@@ -2776,10 +3038,12 @@
     "pages": [
       "scores/Single - Les olivettes (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 195,
@@ -2788,10 +3052,12 @@
     "pages": [
       "scores/Single - Ma Navu (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 196,
@@ -2800,10 +3066,12 @@
     "pages": [
       "scores/Single - Mardi Gras (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 197,
@@ -2812,13 +3080,15 @@
     "pages": [
       "scores/Single - Misirlou (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2019-05-08",
       "workTitle": "Tzadik Katamar"
-    }
+    },
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 198,
@@ -2827,10 +3097,12 @@
     "pages": [
       "scores/Single - Nigun Shel Yossi (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 199,
@@ -2839,10 +3111,12 @@
     "pages": [
       "scores/Single - Oy Yossel Yossel (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 200,
@@ -2851,13 +3125,15 @@
     "pages": [
       "scores/Single - Pas d'été de Médoeux (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2019-05-08",
       "workTitle": "Tzadik Katamar"
-    }
+    },
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 201,
@@ -2866,10 +3142,12 @@
     "pages": [
       "scores/Single - Pieternelle (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 202,
@@ -2878,10 +3156,12 @@
     "pages": [
       "scores/Single - Rumelaj (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 203,
@@ -2890,10 +3170,12 @@
     "pages": [
       "scores/Single - Serjoza (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 204,
@@ -2902,10 +3184,12 @@
     "pages": [
       "scores/Single - Troika (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 205,
@@ -2914,13 +3198,15 @@
     "pages": [
       "scores/Single - Tzadik Katamar (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2019-05-08",
       "workTitle": "Tzadik Katamar"
-    }
+    },
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 206,
@@ -2929,10 +3215,12 @@
     "pages": [
       "scores/Single - Valsa da mota (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 207,
@@ -2941,10 +3229,12 @@
     "pages": [
       "scores/Tarantella - Napoilitana (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Tarantella",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Tarantella"
+    ]
   },
   {
     "number": 208,
@@ -2953,12 +3243,14 @@
     "pages": [
       "scores/Tourdion - Quand je bois du vin claret (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Tourdion",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Tourdion"
+    ]
   },
   {
     "number": 209,
@@ -2967,12 +3259,14 @@
     "pages": [
       "scores/Tricot - Dave (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Tricot",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Tricot"
+    ]
   },
   {
     "number": 210,
@@ -2981,12 +3275,14 @@
     "pages": [
       "scores/Tricot - Le beau rosier (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Tricot",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Tricot"
+    ]
   },
   {
     "number": 211,
@@ -2995,13 +3291,14 @@
     "pages": [
       "scores/Valsa 3T - Ashokan Farewell (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Lentas (slow)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 212,
@@ -3010,15 +3307,16 @@
     "pages": [
       "scores/Valsa 3T - Cold Frosty Morning (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "3 tempos",
-      "Lentas (slow)"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "3 tempos",
+      "Lentas (slow)"
+    ]
   },
   {
     "number": 213,
@@ -3027,13 +3325,14 @@
     "pages": [
       "scores/Valsa 3T - Josefin Dopvals (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Lentas (slow)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 214,
@@ -3042,17 +3341,18 @@
     "pages": [
       "scores/Valsa 3T - Situações triangulares (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "3 tempos",
-      "Lentas (slow)"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "composer": "Stéphane Delicq",
       "creationDate": "2021-12-20",
       "workTitle": "Nadiejda"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "3 tempos",
+      "Lentas (slow)"
+    ]
   },
   {
     "number": 215,
@@ -3061,18 +3361,19 @@
     "pages": [
       "scores/Valsa 3T - The dark island (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "3 tempos",
-      "Lentas (slow)"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2019-10-27",
       "originalFormat": "musicxml",
       "source": "http://musescore.com/user/17068472/scores/4804561",
       "workTitle": "The Dark Island"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "3 tempos",
+      "Lentas (slow)"
+    ]
   },
   {
     "number": 216,
@@ -3081,13 +3382,14 @@
     "pages": [
       "scores/Valsa 3T - A minha saia velhinha (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 217,
@@ -3096,13 +3398,14 @@
     "pages": [
       "scores/Valsa 3T - Al yaras (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 218,
@@ -3111,13 +3414,14 @@
     "pages": [
       "scores/Valsa 3T - Amanha (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 219,
@@ -3126,13 +3430,14 @@
     "pages": [
       "scores/Valsa 3T - Amsterdam (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 220,
@@ -3141,13 +3446,14 @@
     "pages": [
       "scores/Valsa 3T - As Colinas da Manchuria (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 221,
@@ -3156,13 +3462,14 @@
     "pages": [
       "scores/Valsa 3T - As Montanhas (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 222,
@@ -3171,13 +3478,14 @@
     "pages": [
       "scores/Valsa 3T - Cotillon (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 223,
@@ -3186,13 +3494,14 @@
     "pages": [
       "scores/Valsa 3T - Flatworld (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 224,
@@ -3201,13 +3510,14 @@
     "pages": [
       "scores/Valsa 3T - La bohème (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 225,
@@ -3216,16 +3526,17 @@
     "pages": [
       "scores/Valsa 3T - La mal aimable (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "3 tempos",
-      "Rapidas (fast)"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2023-04-02",
       "workTitle": "La Mal Aimable"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "3 tempos",
+      "Rapidas (fast)"
+    ]
   },
   {
     "number": 226,
@@ -3234,15 +3545,16 @@
     "pages": [
       "scores/Valsa 3T - La Partida (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "3 tempos",
-      "Rapidas (fast)"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "3 tempos",
+      "Rapidas (fast)"
+    ]
   },
   {
     "number": 227,
@@ -3251,13 +3563,14 @@
     "pages": [
       "scores/Valsa 3T - La rivière de Regourd (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 228,
@@ -3266,13 +3579,14 @@
     "pages": [
       "scores/Valsa 3T - La valse des negresses vertes (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 229,
@@ -3281,17 +3595,18 @@
     "pages": [
       "scores/Valsa 3T - Leaving Brittany (Jamcionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "3 tempos",
-      "Rapidas (fast)"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2019-10-23",
       "originalFormat": "musicxml",
       "workTitle": "Leaving Brittany"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "3 tempos",
+      "Rapidas (fast)"
+    ]
   },
   {
     "number": 230,
@@ -3300,13 +3615,14 @@
     "pages": [
       "scores/Valsa 3T - Lucifer (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 231,
@@ -3315,13 +3631,14 @@
     "pages": [
       "scores/Valsa 3T - My favourite things (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 232,
@@ -3330,19 +3647,20 @@
     "pages": [
       "scores/Valsa 3T - Primavera a 3 tempos (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "3 tempos",
-      "Rapidas (fast)"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "arranger": "Pedro Pimenta Novembro 2023",
       "composer": "Pedro Pimenta  2019",
       "creationDate": "2023-10-30",
       "subtitle": "Legenda",
       "workTitle": "Valsinha de 3"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "3 tempos",
+      "Rapidas (fast)"
+    ]
   },
   {
     "number": 233,
@@ -3351,13 +3669,14 @@
     "pages": [
       "scores/Valsa 3T - Silent Night (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 234,
@@ -3366,13 +3685,14 @@
     "pages": [
       "scores/Valsa 3T - Trip to Skye (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 235,
@@ -3381,13 +3701,14 @@
     "pages": [
       "scores/Valsa 3T - Valse à Ollu (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 236,
@@ -3396,13 +3717,14 @@
     "pages": [
       "scores/Valsa 3T - Valse aléatoire (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 237,
@@ -3411,13 +3733,14 @@
     "pages": [
       "scores/Valsa 3T - Valse Dombelle (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 238,
@@ -3426,13 +3749,14 @@
     "pages": [
       "scores/Valsa 3T - Valse Magnetique (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 239,
@@ -3441,13 +3765,14 @@
     "pages": [
       "scores/Valsa 3T - We wish you a merry Christmas (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Valsas",
       "3 tempos",
       "Rapidas (fast)"
-    ],
-    "labels": {}
+    ]
   },
   {
     "number": 240,
@@ -3456,14 +3781,15 @@
     "pages": [
       "scores/Valsa 5T - A ultima bolacha (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "5 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "5 Tempos"
+    ]
   },
   {
     "number": 241,
@@ -3472,14 +3798,15 @@
     "pages": [
       "scores/Valsa 5T - Batalia (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "5 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "5 Tempos"
+    ]
   },
   {
     "number": 242,
@@ -3488,14 +3815,15 @@
     "pages": [
       "scores/Valsa 5T - Cinco tempoush (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "5 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "5 Tempos"
+    ]
   },
   {
     "number": 243,
@@ -3504,14 +3832,15 @@
     "pages": [
       "scores/Valsa 5T - Elle (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "5 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "5 Tempos"
+    ]
   },
   {
     "number": 244,
@@ -3520,14 +3849,15 @@
     "pages": [
       "scores/Valsa 5T - Evening Glory (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "5 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "5 Tempos"
+    ]
   },
   {
     "number": 245,
@@ -3536,14 +3866,15 @@
     "pages": [
       "scores/Valsa 5T - Take five (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "5 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "5 Tempos"
+    ]
   },
   {
     "number": 246,
@@ -3552,14 +3883,15 @@
     "pages": [
       "scores/Valsa 5T - Vivre (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "5 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "5 Tempos"
+    ]
   },
   {
     "number": 247,
@@ -3568,14 +3900,15 @@
     "pages": [
       "scores/Valsa 7T - La facture (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "7 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "7 Tempos"
+    ]
   },
   {
     "number": 248,
@@ -3584,14 +3917,15 @@
     "pages": [
       "scores/Valsa 8T - Anne's walz (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "8 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "8 Tempos"
+    ]
   },
   {
     "number": 249,
@@ -3600,14 +3934,15 @@
     "pages": [
       "scores/Valsa 8T - Parapluie Noir (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Valsas",
-    "subcategories": [
-      "8 Tempos"
-    ],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Valsas",
+      "8 Tempos"
+    ]
   },
   {
     "number": 250,
@@ -3616,10 +3951,12 @@
     "pages": [
       "scores/Wiwat - Halina (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Wiwat",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Wiwat"
+    ]
   },
   {
     "number": 251,
@@ -3628,10 +3965,12 @@
     "pages": [
       "scores/Wiwat - Musialaw ty dziewcze co umiec (Jamicionario)-1.png"
     ],
-    "isPortuguese": false,
-    "category": "Wiwat",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Wiwat"
+    ]
   },
   {
     "number": 252,
@@ -3640,10 +3979,12 @@
     "pages": [
       "scores/Contradança - #1 (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Contradanças",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Contradanças"
+    ]
   },
   {
     "number": 253,
@@ -3652,10 +3993,12 @@
     "pages": [
       "scores/Contradança - #2 (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Contradanças",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Contradanças"
+    ]
   },
   {
     "number": 254,
@@ -3664,10 +4007,12 @@
     "pages": [
       "scores/Contradança - #3 (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Contradanças",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Contradanças"
+    ]
   },
   {
     "number": 255,
@@ -3676,10 +4021,12 @@
     "pages": [
       "scores/Corridinho - Sariquite (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Corridinho",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Corridinho"
+    ]
   },
   {
     "number": 256,
@@ -3688,12 +4035,14 @@
     "pages": [
       "scores/Fado - Batido (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Fado",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Fado"
+    ]
   },
   {
     "number": 257,
@@ -3702,12 +4051,14 @@
     "pages": [
       "scores/Malhao - da Graça (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Malhão",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Malhão"
+    ]
   },
   {
     "number": 258,
@@ -3716,15 +4067,17 @@
     "pages": [
       "scores/Malhão - Malhão Malhão (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Malhão",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "composer": "Trad.",
       "creationDate": "2019-10-27",
       "originalFormat": "musicxml",
       "workTitle": "Malhão"
-    }
+    },
+    "folderStructure": [
+      "Malhão"
+    ]
   },
   {
     "number": 259,
@@ -3733,14 +4086,14 @@
     "pages": [
       "scores/Repasseado - Carapau Preto (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Repasseado",
-    "subcategories": [],
+    "region": "Portugal",
+    "typeOfDance": "Repasseado",
     "labels": {
-      "creationDate": "2016-01-07",
-      "region": "Portugal",
-      "type of dance": "Repasseado"
-    }
+      "creationDate": "2016-01-07"
+    },
+    "folderStructure": [
+      "Repasseado"
+    ]
   },
   {
     "number": 260,
@@ -3749,14 +4102,14 @@
     "pages": [
       "scores/Repasseado - de Rio d'Onor (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Repasseado",
-    "subcategories": [],
+    "region": "Portugal",
+    "typeOfDance": "Repasseado",
     "labels": {
-      "creationDate": "2016-01-07",
-      "region": "Portugal",
-      "type of dance": "Repasseado"
-    }
+      "creationDate": "2016-01-07"
+    },
+    "folderStructure": [
+      "Repasseado"
+    ]
   },
   {
     "number": 261,
@@ -3765,14 +4118,14 @@
     "pages": [
       "scores/Repasseado - do Vasco (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Repasseado",
-    "subcategories": [],
+    "region": "Portugal",
+    "typeOfDance": "Repasseado",
     "labels": {
-      "creationDate": "2016-01-07",
-      "region": "Portugal",
-      "type of dance": "Repasseado"
-    }
+      "creationDate": "2016-01-07"
+    },
+    "folderStructure": [
+      "Repasseado"
+    ]
   },
   {
     "number": 262,
@@ -3781,10 +4134,12 @@
     "pages": [
       "scores/Single - A Saia da Carolina (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 263,
@@ -3793,12 +4148,14 @@
     "pages": [
       "scores/Single - Erva Cidreira (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Single",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 264,
@@ -3807,12 +4164,14 @@
     "pages": [
       "scores/Single - Fado do espinho (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Single",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 265,
@@ -3821,10 +4180,12 @@
     "pages": [
       "scores/Single - Ladrao do meio (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 266,
@@ -3833,12 +4194,14 @@
     "pages": [
       "scores/Single - Maneio (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Single",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 267,
@@ -3847,10 +4210,12 @@
     "pages": [
       "scores/Single - Mat'Aranha (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 268,
@@ -3859,12 +4224,14 @@
     "pages": [
       "scores/Single - Picadinha (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Single",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 269,
@@ -3873,10 +4240,12 @@
     "pages": [
       "scores/Single - Pingacho (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 270,
@@ -3885,12 +4254,14 @@
     "pages": [
       "scores/Single - Regadinho (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Single",
-    "subcategories": [],
+    "region": null,
+    "typeOfDance": null,
     "labels": {
       "creationDate": "2016-01-07"
-    }
+    },
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 271,
@@ -3899,10 +4270,12 @@
     "pages": [
       "scores/Single - Senhor Galandum (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Single",
-    "subcategories": [],
-    "labels": {}
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
   },
   {
     "number": 272,
@@ -3911,13 +4284,12 @@
     "pages": [
       "scores/Vira - de Quatro (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Vira",
-    "subcategories": [],
-    "labels": {
-      "region": "Portugal",
-      "type of dance": "Vira"
-    }
+    "region": "Portugal",
+    "typeOfDance": "Vira",
+    "labels": {},
+    "folderStructure": [
+      "Vira"
+    ]
   },
   {
     "number": 273,
@@ -3926,13 +4298,12 @@
     "pages": [
       "scores/Vira - do Minho (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Vira",
-    "subcategories": [],
-    "labels": {
-      "region": "Portugal",
-      "type of dance": "Vira"
-    }
+    "region": "Portugal",
+    "typeOfDance": "Vira",
+    "labels": {},
+    "folderStructure": [
+      "Vira"
+    ]
   },
   {
     "number": 274,
@@ -3941,13 +4312,12 @@
     "pages": [
       "scores/Vira - Elvira (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Vira",
-    "subcategories": [],
-    "labels": {
-      "region": "Portugal",
-      "type of dance": "Vira"
-    }
+    "region": "Portugal",
+    "typeOfDance": "Vira",
+    "labels": {},
+    "folderStructure": [
+      "Vira"
+    ]
   },
   {
     "number": 275,
@@ -3956,13 +4326,12 @@
     "pages": [
       "scores/Vira - Rosinha (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Vira",
-    "subcategories": [],
-    "labels": {
-      "region": "Portugal",
-      "type of dance": "Vira"
-    }
+    "region": "Portugal",
+    "typeOfDance": "Vira",
+    "labels": {},
+    "folderStructure": [
+      "Vira"
+    ]
   },
   {
     "number": 276,
@@ -3971,12 +4340,11 @@
     "pages": [
       "scores/Vira - Toma lá dá cá (Jamicionario)-1.png"
     ],
-    "isPortuguese": true,
-    "category": "Vira",
-    "subcategories": [],
-    "labels": {
-      "region": "Portugal",
-      "type of dance": "Vira"
-    }
+    "region": "Portugal",
+    "typeOfDance": "Vira",
+    "labels": {},
+    "folderStructure": [
+      "Vira"
+    ]
   }
 ]
