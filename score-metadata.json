@@ -78,9 +78,7 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "An Dro"
     ]
@@ -108,9 +106,7 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "An Dro"
     ]
@@ -142,7 +138,6 @@
       "arranger": "JMiB",
       "composer": "Trad Gascogne",
       "copyright": "JMiB 20231229 - Tablature D.E.S. pour accordéon diatonique Sol/Do",
-      "creationDate": "2023-08-24",
       "source": "http://musescore.com/user/5476331/scores/13708690",
       "workTitle": "Arin-Arin"
     },
@@ -163,7 +158,6 @@
       "arranger": "JMiB",
       "composer": "Trad Gascogne",
       "copyright": "JMiB 20231229 - Tablature D.E.S. pour accordéon diatonique Sol/Do",
-      "creationDate": "2023-08-24",
       "source": "http://musescore.com/user/5476331/scores/13708690",
       "workTitle": "Arin-Arin"
     },
@@ -181,7 +175,6 @@
     "region": "France",
     "typeOfDance": "Bourrée",
     "labels": {
-      "creationDate": "2023-04-09",
       "workTitle": "Bourrée à Malochet"
     },
     "folderStructure": [
@@ -206,15 +199,14 @@
   },
   {
     "number": 14,
-    "name": "Bourrée 2T - Bourrée de Montserrat (Jamicionário)",
-    "searchableName": "bourrée 2t - bourrée de montserrat (jamicionário)",
+    "name": "Bourrée 2T - Bachelier (Jamicionario)",
+    "searchableName": "bourrée 2t - bachelier (jamicionario)",
     "pages": [
-      "scores/Bourrée 2T - Bourrée de Montserrat (Jamicionário)-1.png"
+      "scores/Bourrée 2T - Bachelier (Jamicionario)-1.png"
     ],
     "region": null,
     "typeOfDance": null,
     "labels": {
-      "creationDate": "2023-04-09",
       "workTitle": "Bourrée à Malochet"
     },
     "folderStructure": [
@@ -224,15 +216,14 @@
   },
   {
     "number": 15,
-    "name": "Bourrée 2T - de Montford (Jamicionario)",
-    "searchableName": "bourrée 2t - de montford (jamicionario)",
+    "name": "Bourrée 2T - Bourrée de Montserrat (Jamicionário)",
+    "searchableName": "bourrée 2t - bourrée de montserrat (jamicionário)",
     "pages": [
-      "scores/Bourrée 2T - de Montford (Jamicionario)-1.png"
+      "scores/Bourrée 2T - Bourrée de Montserrat (Jamicionário)-1.png"
     ],
     "region": null,
     "typeOfDance": null,
     "labels": {
-      "creationDate": "2023-04-09",
       "workTitle": "Bourrée à Malochet"
     },
     "folderStructure": [
@@ -242,6 +233,53 @@
   },
   {
     "number": 16,
+    "name": "Bourrée 2T - de Montford (Jamicionario)",
+    "searchableName": "bourrée 2t - de montford (jamicionario)",
+    "pages": [
+      "scores/Bourrée 2T - de Montford (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {
+      "workTitle": "Bourrée à Malochet"
+    },
+    "folderStructure": [
+      "Bourrée",
+      "2 Tempos"
+    ]
+  },
+  {
+    "number": 17,
+    "name": "Bourree 2T - Derriere chez nous (Jamicionario)",
+    "searchableName": "bourree 2t - derriere chez nous (jamicionario)",
+    "pages": [
+      "scores/Bourree 2T - Derriere chez nous (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bourrée",
+      "2 Tempos"
+    ]
+  },
+  {
+    "number": 18,
+    "name": "Bourrée 2T - du zinzin (Jamicionario)",
+    "searchableName": "bourrée 2t - du zinzin (jamicionario)",
+    "pages": [
+      "scores/Bourrée 2T - du zinzin (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bourrée",
+      "2 Tempos"
+    ]
+  },
+  {
+    "number": 19,
     "name": "Bourrée 2T - Kerleguer (Jamicionario)",
     "searchableName": "bourrée 2t - kerleguer (jamicionario)",
     "pages": [
@@ -256,7 +294,7 @@
     ]
   },
   {
-    "number": 17,
+    "number": 20,
     "name": "Bourrée 2T - L'ombre verte (Jamicionario)",
     "searchableName": "bourrée 2t - l'ombre verte (jamicionario)",
     "pages": [
@@ -271,7 +309,7 @@
     ]
   },
   {
-    "number": 18,
+    "number": 21,
     "name": "Bourree 2T - La dansarem pas pus (Jamicionario)",
     "searchableName": "bourree 2t - la dansarem pas pus (jamicionario)",
     "pages": [
@@ -286,7 +324,7 @@
     ]
   },
   {
-    "number": 19,
+    "number": 22,
     "name": "Bourrée 2T - Last chance (Jamicionario)",
     "searchableName": "bourrée 2t - last chance (jamicionario)",
     "pages": [
@@ -301,7 +339,7 @@
     ]
   },
   {
-    "number": 20,
+    "number": 23,
     "name": "Bourrée 2T - Marilou (Jamicionario)",
     "searchableName": "bourrée 2t - marilou (jamicionario)",
     "pages": [
@@ -310,7 +348,6 @@
     "region": null,
     "typeOfDance": null,
     "labels": {
-      "creationDate": "2023-04-09",
       "workTitle": "Bourrée à Malochet"
     },
     "folderStructure": [
@@ -319,7 +356,7 @@
     ]
   },
   {
-    "number": 21,
+    "number": 24,
     "name": "Bourree 2T - Marrakech (Jamicionario)",
     "searchableName": "bourree 2t - marrakech (jamicionario)",
     "pages": [
@@ -334,7 +371,37 @@
     ]
   },
   {
-    "number": 22,
+    "number": 25,
+    "name": "Bourée 3T - Bal limousin (Jamicionario)",
+    "searchableName": "bourée 3t - bal limousin (jamicionario)",
+    "pages": [
+      "scores/Bourée 3T - Bal limousin (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bourrée",
+      "3 Tempos"
+    ]
+  },
+  {
+    "number": 26,
+    "name": "Bourée 3T - Des jeunes (Jamicionario)",
+    "searchableName": "bourée 3t - des jeunes (jamicionario)",
+    "pages": [
+      "scores/Bourée 3T - Des jeunes (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Bourrée",
+      "3 Tempos"
+    ]
+  },
+  {
+    "number": 27,
     "name": "Bourée 3T - Les poules houpées (Jamicionario)",
     "searchableName": "bourée 3t - les poules houpées (jamicionario)",
     "pages": [
@@ -349,7 +416,7 @@
     ]
   },
   {
-    "number": 23,
+    "number": 28,
     "name": "Bourrée 3T - Des gars (Jamicionario)",
     "searchableName": "bourrée 3t - des gars (jamicionario)",
     "pages": [
@@ -357,16 +424,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bourrée",
       "3 Tempos"
     ]
   },
   {
-    "number": 24,
+    "number": 29,
     "name": "Bourrée 3T - Koffeinmentes (Jamicionario)",
     "searchableName": "bourrée 3t - koffeinmentes (jamicionario)",
     "pages": [
@@ -374,16 +439,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bourrée",
       "3 Tempos"
     ]
   },
   {
-    "number": 25,
+    "number": 30,
     "name": "Bourrée 3T - Ma maitraisse (Jamicionario)",
     "searchableName": "bourrée 3t - ma maitraisse (jamicionario)",
     "pages": [
@@ -391,16 +454,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bourrée",
       "3 Tempos"
     ]
   },
   {
-    "number": 26,
+    "number": 31,
     "name": "Bransle italiana - Sbrando (Jamicionario)",
     "searchableName": "bransle italiana - sbrando (jamicionario)",
     "pages": [
@@ -409,7 +470,6 @@
     "region": null,
     "typeOfDance": null,
     "labels": {
-      "creationDate": "2019-10-26",
       "originalFormat": "musicxml",
       "source": "http://musescore.com/user/10636897/scores/5135548",
       "workTitle": "Sbrando"
@@ -420,7 +480,7 @@
     ]
   },
   {
-    "number": 27,
+    "number": 32,
     "name": "Bransle d'Ossau - Civada (Jamicionario)",
     "searchableName": "bransle d'ossau - civada (jamicionario)",
     "pages": [
@@ -435,7 +495,7 @@
     ]
   },
   {
-    "number": 28,
+    "number": 33,
     "name": "Bransle d'Ossau - Les 3 cailloux (Jamicionario)",
     "searchableName": "bransle d'ossau - les 3 cailloux (jamicionario)",
     "pages": [
@@ -450,7 +510,25 @@
     ]
   },
   {
-    "number": 29,
+    "number": 34,
+    "name": "Bransle d'Ossau - Quan j’eri hilha a maridèr (Jamicionario)",
+    "searchableName": "bransle d'ossau - quan j’eri hilha a maridèr (jamicionario)",
+    "pages": [
+      "scores/Bransle d'Ossau - Quan j’eri hilha a maridèr (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {
+      "originalFormat": "mxl",
+      "source": "C:\\Users\\jrss_\\Desktop\\partitions-france-QUOAN JERI FILHA MARIDER --- Quoan_j_eri_filha_a_marider.pdf"
+    },
+    "folderStructure": [
+      "Bransle",
+      "D'Ossau"
+    ]
+  },
+  {
+    "number": 35,
     "name": "Bransle - De Noirmoutier #11 (Jamicionario)",
     "searchableName": "bransle - de noirmoutier #11 (jamicionario)",
     "pages": [
@@ -458,9 +536,7 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bransle",
       "De Noirmoutier",
@@ -468,7 +544,7 @@
     ]
   },
   {
-    "number": 30,
+    "number": 36,
     "name": "Bransle - De Noirmoutier #12 (Jamicionario)",
     "searchableName": "bransle - de noirmoutier #12 (jamicionario)",
     "pages": [
@@ -476,9 +552,7 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bransle",
       "De Noirmoutier",
@@ -486,7 +560,7 @@
     ]
   },
   {
-    "number": 31,
+    "number": 37,
     "name": "Bransle - De Noirmoutier #13 (Jamicionario)",
     "searchableName": "bransle - de noirmoutier #13 (jamicionario)",
     "pages": [
@@ -494,9 +568,7 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bransle",
       "De Noirmoutier",
@@ -504,7 +576,7 @@
     ]
   },
   {
-    "number": 32,
+    "number": 38,
     "name": "Bransle - De Noirmoutier #21 (Jamicionario)",
     "searchableName": "bransle - de noirmoutier #21 (jamicionario)",
     "pages": [
@@ -512,9 +584,7 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bransle",
       "De Noirmoutier",
@@ -522,7 +592,7 @@
     ]
   },
   {
-    "number": 33,
+    "number": 39,
     "name": "Bransle - De Noirmoutier #22 (Jamicionario)",
     "searchableName": "bransle - de noirmoutier #22 (jamicionario)",
     "pages": [
@@ -530,9 +600,7 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bransle",
       "De Noirmoutier",
@@ -540,7 +608,7 @@
     ]
   },
   {
-    "number": 34,
+    "number": 40,
     "name": "Bransle - De la fosse aux loups (Jamicionario)",
     "searchableName": "bransle - de la fosse aux loups (jamicionario)",
     "pages": [
@@ -548,16 +616,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bransle",
       "Modernas"
     ]
   },
   {
-    "number": 35,
+    "number": 41,
     "name": "Bransle Renascentista - Da Escócia (Jamicionario)",
     "searchableName": "bransle renascentista - da escócia (jamicionario)",
     "pages": [
@@ -565,16 +631,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bransle",
       "Renascentistas"
     ]
   },
   {
-    "number": 36,
+    "number": 42,
     "name": "Bransle Renascentista - de la Montarde (Jamicionario)",
     "searchableName": "bransle renascentista - de la montarde (jamicionario)",
     "pages": [
@@ -582,16 +646,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bransle",
       "Renascentistas"
     ]
   },
   {
-    "number": 37,
+    "number": 43,
     "name": "Bransle Renascentista - de la Torche (Jamicionario)",
     "searchableName": "bransle renascentista - de la torche (jamicionario)",
     "pages": [
@@ -599,16 +661,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bransle",
       "Renascentistas"
     ]
   },
   {
-    "number": 38,
+    "number": 44,
     "name": "Bransle Renascentista - Dos cavalos (Jamicionario)",
     "searchableName": "bransle renascentista - dos cavalos (jamicionario)",
     "pages": [
@@ -616,16 +676,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bransle",
       "Renascentistas"
     ]
   },
   {
-    "number": 39,
+    "number": 45,
     "name": "Bransle Renascentista - du rat (Jamicionario)",
     "searchableName": "bransle renascentista - du rat (jamicionario)",
     "pages": [
@@ -640,7 +698,7 @@
     ]
   },
   {
-    "number": 40,
+    "number": 46,
     "name": "Bransle Renascentista - Pinagay (Jamicionario)",
     "searchableName": "bransle renascentista - pinagay (jamicionario)",
     "pages": [
@@ -648,16 +706,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Bransle",
       "Renascentistas"
     ]
   },
   {
-    "number": 41,
+    "number": 47,
     "name": "Circulo - Cleveland park Jig (Jamicionario)",
     "searchableName": "circulo - cleveland park jig (jamicionario)",
     "pages": [
@@ -672,7 +728,7 @@
     ]
   },
   {
-    "number": 42,
+    "number": 48,
     "name": "Circulo - Horizonto (Jamicionario)",
     "searchableName": "circulo - horizonto (jamicionario)",
     "pages": [
@@ -687,7 +743,7 @@
     ]
   },
   {
-    "number": 43,
+    "number": 49,
     "name": "Circulo - Jump at the sun Jig (Jamicionario)",
     "searchableName": "circulo - jump at the sun jig (jamicionario)",
     "pages": [
@@ -702,7 +758,7 @@
     ]
   },
   {
-    "number": 44,
+    "number": 50,
     "name": "Circulo - The sailor's wife (Jamicionario)",
     "searchableName": "circulo - the sailor's wife (jamicionario)",
     "pages": [
@@ -717,7 +773,7 @@
     ]
   },
   {
-    "number": 45,
+    "number": 51,
     "name": "Circulo:Chappeloise - Hunting the squirrel Jig (Jamicionario)",
     "searchableName": "circulo:chappeloise - hunting the squirrel jig (jamicionario)",
     "pages": [
@@ -732,7 +788,7 @@
     ]
   },
   {
-    "number": 46,
+    "number": 52,
     "name": "Circulo - Cercle des ronds (Jamicionario)",
     "searchableName": "circulo - cercle des ronds (jamicionario)",
     "pages": [
@@ -747,7 +803,22 @@
     ]
   },
   {
-    "number": 47,
+    "number": 53,
+    "name": "Circulo - Il inferno (Jamicionario)",
+    "searchableName": "circulo - il inferno (jamicionario)",
+    "pages": [
+      "scores/Circulo - Il inferno (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
+      "Jigs continentais europeus"
+    ]
+  },
+  {
+    "number": 54,
     "name": "Circulo - Kreisverkher (Jamicionario)",
     "searchableName": "circulo - kreisverkher (jamicionario)",
     "pages": [
@@ -762,7 +833,22 @@
     ]
   },
   {
-    "number": 48,
+    "number": 55,
+    "name": "Circulo - La foret (Jamicionario)",
+    "searchableName": "circulo - la foret (jamicionario)",
+    "pages": [
+      "scores/Circulo - La foret (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Circulo & Chappeloise",
+      "Jigs continentais europeus"
+    ]
+  },
+  {
+    "number": 56,
     "name": "Círculo - Muriñeira (Jamicionario)",
     "searchableName": "círculo - muriñeira (jamicionario)",
     "pages": [
@@ -770,16 +856,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Circulo & Chappeloise",
       "Jigs continentais europeus"
     ]
   },
   {
-    "number": 49,
+    "number": 57,
     "name": "Circulo - Zelda (Jamicionario)",
     "searchableName": "circulo - zelda (jamicionario)",
     "pages": [
@@ -794,7 +878,7 @@
     ]
   },
   {
-    "number": 50,
+    "number": 58,
     "name": "Circulo:Chappeloise - Gaspacho (Jamicionario)",
     "searchableName": "circulo:chappeloise - gaspacho (jamicionario)",
     "pages": [
@@ -809,7 +893,7 @@
     ]
   },
   {
-    "number": 51,
+    "number": 59,
     "name": "Circulo - Blarney pilgrim (Jamicionario)",
     "searchableName": "circulo - blarney pilgrim (jamicionario)",
     "pages": [
@@ -824,22 +908,7 @@
     ]
   },
   {
-    "number": 52,
-    "name": "Circulo - Crabs in the skillet Jig (Jamicionario)",
-    "searchableName": "circulo - crabs in the skillet jig (jamicionario)",
-    "pages": [
-      "scores/Circulo - Crabs in the skillet Jig (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {},
-    "folderStructure": [
-      "Circulo & Chappeloise",
-      "Jigs Irlandeses"
-    ]
-  },
-  {
-    "number": 53,
+    "number": 60,
     "name": "Circulo - Get up old woman & shake yourself Jig (Jamicionario)",
     "searchableName": "circulo - get up old woman & shake yourself jig (jamicionario)",
     "pages": [
@@ -854,7 +923,7 @@
     ]
   },
   {
-    "number": 54,
+    "number": 61,
     "name": "Circulo - Go to the devil & shake yourself Jig (Jamicionario)",
     "searchableName": "circulo - go to the devil & shake yourself jig (jamicionario)",
     "pages": [
@@ -869,7 +938,7 @@
     ]
   },
   {
-    "number": 55,
+    "number": 62,
     "name": "Circulo - Out in the ocean Jig (Jamicionario)",
     "searchableName": "circulo - out in the ocean jig (jamicionario)",
     "pages": [
@@ -884,7 +953,7 @@
     ]
   },
   {
-    "number": 56,
+    "number": 63,
     "name": "Circulo - Smash the windows Jig (Jamicionario)",
     "searchableName": "circulo - smash the windows jig (jamicionario)",
     "pages": [
@@ -899,7 +968,7 @@
     ]
   },
   {
-    "number": 57,
+    "number": 64,
     "name": "Circulo - The absent-minded man Jig (Jamicionario)",
     "searchableName": "circulo - the absent-minded man jig (jamicionario)",
     "pages": [
@@ -914,7 +983,7 @@
     ]
   },
   {
-    "number": 58,
+    "number": 65,
     "name": "Circulo - The cliifs of Moher Jig (Jamicionario)",
     "searchableName": "circulo - the cliifs of moher jig (jamicionario)",
     "pages": [
@@ -929,7 +998,7 @@
     ]
   },
   {
-    "number": 59,
+    "number": 66,
     "name": "Circulo - The dancing master (Jamicionario)",
     "searchableName": "circulo - the dancing master (jamicionario)",
     "pages": [
@@ -944,7 +1013,7 @@
     ]
   },
   {
-    "number": 60,
+    "number": 67,
     "name": "Circulo - The Kesh Jig (Jamicionario)",
     "searchableName": "circulo - the kesh jig (jamicionario)",
     "pages": [
@@ -959,7 +1028,7 @@
     ]
   },
   {
-    "number": 61,
+    "number": 68,
     "name": "Chappeloise Pop - Amigos do Gaspar (Jamicionario)",
     "searchableName": "chappeloise pop - amigos do gaspar (jamicionario)",
     "pages": [
@@ -967,16 +1036,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Circulo & Chappeloise",
       "Temas Pop"
     ]
   },
   {
-    "number": 62,
+    "number": 69,
     "name": "Chappeloise Pop - Dartacão (Jamicionario)",
     "searchableName": "chappeloise pop - dartacão (jamicionario)",
     "pages": [
@@ -984,16 +1051,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Circulo & Chappeloise",
       "Temas Pop"
     ]
   },
   {
-    "number": 63,
+    "number": 70,
     "name": "Chappeloise Pop - É tao bom (Jamicionario)",
     "searchableName": "chappeloise pop - é tao bom (jamicionario)",
     "pages": [
@@ -1001,16 +1066,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Circulo & Chappeloise",
       "Temas Pop"
     ]
   },
   {
-    "number": 64,
+    "number": 71,
     "name": "Chappeloise Pop - Les Cités d'Or (Jamicionario)",
     "searchableName": "chappeloise pop - les cités d'or (jamicionario)",
     "pages": [
@@ -1025,7 +1088,7 @@
     ]
   },
   {
-    "number": 65,
+    "number": 72,
     "name": "Congo - Au Castèth de Monsur Montèth (Jamicionario)",
     "searchableName": "congo - au castèth de monsur montèth (jamicionario)",
     "pages": [
@@ -1039,7 +1102,7 @@
     ]
   },
   {
-    "number": 66,
+    "number": 73,
     "name": "Congo - Congo des Captieux (Jamicionario)",
     "searchableName": "congo - congo des captieux (jamicionario)",
     "pages": [
@@ -1053,7 +1116,7 @@
     ]
   },
   {
-    "number": 67,
+    "number": 74,
     "name": "Congo - de Marcel Lagardere (Jamicionario)",
     "searchableName": "congo - de marcel lagardere (jamicionario)",
     "pages": [
@@ -1067,7 +1130,7 @@
     ]
   },
   {
-    "number": 68,
+    "number": 75,
     "name": "Congo - Man Encantada (Jamicionario)",
     "searchableName": "congo - man encantada (jamicionario)",
     "pages": [
@@ -1081,7 +1144,7 @@
     ]
   },
   {
-    "number": 69,
+    "number": 76,
     "name": "Congo - Sem título #1 (Jamicionario)",
     "searchableName": "congo - sem título #1 (jamicionario)",
     "pages": [
@@ -1095,7 +1158,7 @@
     ]
   },
   {
-    "number": 70,
+    "number": 77,
     "name": "Fandango - Albiztur (Jamicionario)",
     "searchableName": "fandango - albiztur (jamicionario)",
     "pages": [
@@ -1106,7 +1169,6 @@
     "labels": {
       "composer": "Trad.",
       "copyright": "JMiB 20220314 - Tablature accordéon diatonique Sol/Do",
-      "creationDate": "20220314",
       "source": "http://musescore.com/user/5476331/scores/7717283",
       "workTitle": "Fandango"
     },
@@ -1115,7 +1177,7 @@
     ]
   },
   {
-    "number": 71,
+    "number": 78,
     "name": "Gavotte bretã - War devenn Sant Pabu (Jamicionario)",
     "searchableName": "gavotte bretã - war devenn sant pabu (jamicionario)",
     "pages": [
@@ -1123,16 +1185,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Gavotte",
       "Gavotte bretã"
     ]
   },
   {
-    "number": 72,
+    "number": 79,
     "name": "Gavotte de Grenoble - Berceuse pour un loulou (Jamicionario)",
     "searchableName": "gavotte de grenoble - berceuse pour un loulou (jamicionario)",
     "pages": [
@@ -1140,128 +1200,7 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Gavotte",
-      "Gavotte de Grenoble"
-    ]
-  },
-  {
-    "number": 73,
-    "name": "Gavotte de Grenoble - Fiif (Jamicionario)",
-    "searchableName": "gavotte de grenoble - fiif (jamicionario)",
-    "pages": [
-      "scores/Gavotte de Grenoble - Fiif (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Gavotte",
-      "Gavotte de Grenoble"
-    ]
-  },
-  {
-    "number": 74,
-    "name": "Gavotte de Grenoble - Flower of Magherally (Jamicionario)",
-    "searchableName": "gavotte de grenoble - flower of magherally (jamicionario)",
-    "pages": [
-      "scores/Gavotte de Grenoble - Flower of Magherally (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Gavotte",
-      "Gavotte de Grenoble"
-    ]
-  },
-  {
-    "number": 75,
-    "name": "Gavotte de Grenoble - Frank Thornton’s highland fling (Jamicionario)",
-    "searchableName": "gavotte de grenoble - frank thornton’s highland fling (jamicionario)",
-    "pages": [
-      "scores/Gavotte de Grenoble - Frank Thornton’s highland fling (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Gavotte",
-      "Gavotte de Grenoble"
-    ]
-  },
-  {
-    "number": 76,
-    "name": "Gavotte de Grenoble - Gavotte de l'Alzen (Jamicionario)",
-    "searchableName": "gavotte de grenoble - gavotte de l'alzen (jamicionario)",
-    "pages": [
-      "scores/Gavotte de Grenoble - Gavotte de l'Alzen (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Gavotte",
-      "Gavotte de Grenoble"
-    ]
-  },
-  {
-    "number": 77,
-    "name": "Gavotte de Grenoble - Ivoirine (Jamicionario)",
-    "searchableName": "gavotte de grenoble - ivoirine (jamicionario)",
-    "pages": [
-      "scores/Gavotte de Grenoble - Ivoirine (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Gavotte",
-      "Gavotte de Grenoble"
-    ]
-  },
-  {
-    "number": 78,
-    "name": "Gavotte de Grenoble - Merry Christmas mister Lawrence (Jamicionario)",
-    "searchableName": "gavotte de grenoble - merry christmas mister lawrence (jamicionario)",
-    "pages": [
-      "scores/Gavotte de Grenoble - Merry Christmas mister Lawrence (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Gavotte",
-      "Gavotte de Grenoble"
-    ]
-  },
-  {
-    "number": 79,
-    "name": "Gavotte de Grenoble - Mira (Jamicionario)",
-    "searchableName": "gavotte de grenoble - mira (jamicionario)",
-    "pages": [
-      "scores/Gavotte de Grenoble - Mira (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Gavotte",
       "Gavotte de Grenoble"
@@ -1269,6 +1208,66 @@
   },
   {
     "number": 80,
+    "name": "Gavotte de Grenoble - Fiif (Jamicionario)",
+    "searchableName": "gavotte de grenoble - fiif (jamicionario)",
+    "pages": [
+      "scores/Gavotte de Grenoble - Fiif (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
+  },
+  {
+    "number": 81,
+    "name": "Gavotte de Grenoble - Gavotte de l'Alzen (Jamicionario)",
+    "searchableName": "gavotte de grenoble - gavotte de l'alzen (jamicionario)",
+    "pages": [
+      "scores/Gavotte de Grenoble - Gavotte de l'Alzen (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
+  },
+  {
+    "number": 82,
+    "name": "Gavotte de Grenoble - Ivoirine (Jamicionario)",
+    "searchableName": "gavotte de grenoble - ivoirine (jamicionario)",
+    "pages": [
+      "scores/Gavotte de Grenoble - Ivoirine (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
+  },
+  {
+    "number": 83,
+    "name": "Gavotte de Grenoble - Mira (Jamicionario)",
+    "searchableName": "gavotte de grenoble - mira (jamicionario)",
+    "pages": [
+      "scores/Gavotte de Grenoble - Mira (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Gavotte",
+      "Gavotte de Grenoble"
+    ]
+  },
+  {
+    "number": 84,
     "name": "Gavotte de Grenoble - Very Jeune (Jamicionario)",
     "searchableName": "gavotte de grenoble - very jeune (jamicionario)",
     "pages": [
@@ -1278,7 +1277,6 @@
     "typeOfDance": null,
     "labels": {
       "composer": "Hartwin Dhoore",
-      "creationDate": "2024-02-28",
       "originalFormat": "xml",
       "source": "http://musescore.com/user/79422538/scores/14664298",
       "workTitle": "Very Jeune"
@@ -1289,7 +1287,7 @@
     ]
   },
   {
-    "number": 81,
+    "number": 85,
     "name": "Halay - Damat Havasi (Jamicionario)",
     "searchableName": "halay - damat havasi (jamicionario)",
     "pages": [
@@ -1297,15 +1295,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Halay"
     ]
   },
   {
-    "number": 82,
+    "number": 86,
     "name": "Hanter Dro - Calimero (Jamicionario)",
     "searchableName": "hanter dro - calimero (jamicionario)",
     "pages": [
@@ -1319,7 +1315,7 @@
     ]
   },
   {
-    "number": 83,
+    "number": 87,
     "name": "Hanter Dro - De Languidig (Jamicionario)",
     "searchableName": "hanter dro - de languidig (jamicionario)",
     "pages": [
@@ -1333,7 +1329,7 @@
     ]
   },
   {
-    "number": 84,
+    "number": 88,
     "name": "Hanter Dro - Duhont'ar Ar Mane (Jamicionario)",
     "searchableName": "hanter dro - duhont'ar ar mane (jamicionario)",
     "pages": [
@@ -1341,15 +1337,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Hanter Dro"
     ]
   },
   {
-    "number": 85,
+    "number": 89,
     "name": "Hanter Dro - Flying Porto (Jamicionario)",
     "searchableName": "hanter dro - flying porto (jamicionario)",
     "pages": [
@@ -1357,15 +1351,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Hanter Dro"
     ]
   },
   {
-    "number": 86,
+    "number": 90,
     "name": "Hanter Dro - Hanterdrone (Jamicionario)",
     "searchableName": "hanter dro - hanterdrone (jamicionario)",
     "pages": [
@@ -1373,15 +1365,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Hanter Dro"
     ]
   },
   {
-    "number": 87,
+    "number": 91,
     "name": "Hanter Dro - Kabalerien (Jamicionario)",
     "searchableName": "hanter dro - kabalerien (jamicionario)",
     "pages": [
@@ -1395,7 +1385,7 @@
     ]
   },
   {
-    "number": 88,
+    "number": 92,
     "name": "Hanter Dro - La belle dame (Jamicionario)",
     "searchableName": "hanter dro - la belle dame (jamicionario)",
     "pages": [
@@ -1409,7 +1399,7 @@
     ]
   },
   {
-    "number": 89,
+    "number": 93,
     "name": "Hanter Dro - Nothing hill (Jamicionario)",
     "searchableName": "hanter dro - nothing hill (jamicionario)",
     "pages": [
@@ -1417,15 +1407,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Hanter Dro"
     ]
   },
   {
-    "number": 90,
+    "number": 94,
     "name": "Hanter Dro - Paumes d'amour (Jamicionario)",
     "searchableName": "hanter dro - paumes d'amour (jamicionario)",
     "pages": [
@@ -1439,7 +1427,7 @@
     ]
   },
   {
-    "number": 91,
+    "number": 95,
     "name": "Hanter Dro - Pera Verde (Jamicionario)",
     "searchableName": "hanter dro - pera verde (jamicionario)",
     "pages": [
@@ -1447,15 +1435,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Hanter Dro"
     ]
   },
   {
-    "number": 92,
+    "number": 96,
     "name": "Hasapiko - Nostalgico (Jamicionario)",
     "searchableName": "hasapiko - nostalgico (jamicionario)",
     "pages": [
@@ -1469,7 +1455,7 @@
     ]
   },
   {
-    "number": 93,
+    "number": 97,
     "name": "Lambada - Llorando se fue (Jamicionario)",
     "searchableName": "lambada - llorando se fue (jamicionario)",
     "pages": [
@@ -1477,15 +1463,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Lambada"
     ]
   },
   {
-    "number": 94,
+    "number": 98,
     "name": "Madison - French Connexions (Jamicionario)",
     "searchableName": "madison - french connexions (jamicionario)",
     "pages": [
@@ -1494,7 +1478,6 @@
     "region": null,
     "typeOfDance": null,
     "labels": {
-      "creationDate": "2019-05-08",
       "workTitle": "Tzadik Katamar"
     },
     "folderStructure": [
@@ -1502,24 +1485,7 @@
     ]
   },
   {
-    "number": 95,
-    "name": "Madison - Wizard's walk (Jamicionario)",
-    "searchableName": "madison - wizard's walk (jamicionario)",
-    "pages": [
-      "scores/Madison - Wizard's walk (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2019-05-08",
-      "workTitle": "Tzadik Katamar"
-    },
-    "folderStructure": [
-      "Madison"
-    ]
-  },
-  {
-    "number": 96,
+    "number": 99,
     "name": "Maraichine - #11 Ciac Boum (Jamicionario)",
     "searchableName": "maraichine - #11 ciac boum (jamicionario)",
     "pages": [
@@ -1534,7 +1500,7 @@
     ]
   },
   {
-    "number": 97,
+    "number": 100,
     "name": "Maraichine - #12 Ciac Boum (Jamicionario)",
     "searchableName": "maraichine - #12 ciac boum (jamicionario)",
     "pages": [
@@ -1549,7 +1515,7 @@
     ]
   },
   {
-    "number": 98,
+    "number": 101,
     "name": "Maraichine - #13 Ciac Boum (Jamicionario)",
     "searchableName": "maraichine - #13 ciac boum (jamicionario)",
     "pages": [
@@ -1564,7 +1530,7 @@
     ]
   },
   {
-    "number": 99,
+    "number": 102,
     "name": "Marchoise - #11 Guerbigny (Jamicionario)",
     "searchableName": "marchoise - #11 guerbigny (jamicionario)",
     "pages": [
@@ -1579,7 +1545,7 @@
     ]
   },
   {
-    "number": 100,
+    "number": 103,
     "name": "Marchoise - #12 Guerbigny (Jamicionario)",
     "searchableName": "marchoise - #12 guerbigny (jamicionario)",
     "pages": [
@@ -1594,7 +1560,7 @@
     ]
   },
   {
-    "number": 101,
+    "number": 104,
     "name": "Marchoise - #13 Guerbigny (Jamicionario)",
     "searchableName": "marchoise - #13 guerbigny (jamicionario)",
     "pages": [
@@ -1609,7 +1575,7 @@
     ]
   },
   {
-    "number": 102,
+    "number": 105,
     "name": "Mazurka CV - Raquel (Jamicionario)",
     "searchableName": "mazurka cv - raquel (jamicionario)",
     "pages": [
@@ -1619,7 +1585,6 @@
     "typeOfDance": null,
     "labels": {
       "composer": "Stéphane Delicq",
-      "creationDate": "2021-12-20",
       "workTitle": "Nadiejda"
     },
     "folderStructure": [
@@ -1628,7 +1593,7 @@
     ]
   },
   {
-    "number": 103,
+    "number": 106,
     "name": "Mazurka - A bruxa (Jamicionario)",
     "searchableName": "mazurka - a bruxa (jamicionario)",
     "pages": [
@@ -1643,7 +1608,7 @@
     ]
   },
   {
-    "number": 104,
+    "number": 107,
     "name": "Mazurka - À Clement (Jamicionario)",
     "searchableName": "mazurka - à clement (jamicionario)",
     "pages": [
@@ -1658,24 +1623,7 @@
     ]
   },
   {
-    "number": 105,
-    "name": "Mazurka - Aggie's (Jamicionario)",
-    "searchableName": "mazurka - aggie's (jamicionario)",
-    "pages": [
-      "scores/Mazurka - Aggie's (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Mazurka",
-      "Europeia"
-    ]
-  },
-  {
-    "number": 106,
+    "number": 108,
     "name": "Mazurka - Alio (Jamicionario)",
     "searchableName": "mazurka - alio (jamicionario)",
     "pages": [
@@ -1683,16 +1631,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Mazurka",
       "Europeia"
     ]
   },
   {
-    "number": 107,
+    "number": 109,
     "name": "Mazurka - Almofada (Jamicionario)",
     "searchableName": "mazurka - almofada (jamicionario)",
     "pages": [
@@ -1707,7 +1653,7 @@
     ]
   },
   {
-    "number": 108,
+    "number": 110,
     "name": "Mazurka - Au bord de l'eau (Jamicionario)",
     "searchableName": "mazurka - au bord de l'eau (jamicionario)",
     "pages": [
@@ -1722,7 +1668,7 @@
     ]
   },
   {
-    "number": 109,
+    "number": 111,
     "name": "Mazurka - Biqueiras d'aço (Jamicionario)",
     "searchableName": "mazurka - biqueiras d'aço (jamicionario)",
     "pages": [
@@ -1737,24 +1683,7 @@
     ]
   },
   {
-    "number": 110,
-    "name": "Mazurka - Bonnie at morn (Jamicionario)",
-    "searchableName": "mazurka - bonnie at morn (jamicionario)",
-    "pages": [
-      "scores/Mazurka - Bonnie at morn (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Mazurka",
-      "Europeia"
-    ]
-  },
-  {
-    "number": 111,
+    "number": 112,
     "name": "Mazurka - Candela (Jamicionario)",
     "searchableName": "mazurka - candela (jamicionario)",
     "pages": [
@@ -1769,7 +1698,7 @@
     ]
   },
   {
-    "number": 112,
+    "number": 113,
     "name": "Mazurka - Des Tuileries (Jamicionario)",
     "searchableName": "mazurka - des tuileries (jamicionario)",
     "pages": [
@@ -1777,16 +1706,29 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Mazurka",
       "Europeia"
     ]
   },
   {
-    "number": 113,
+    "number": 114,
+    "name": "Mazurka - Donegal (Jamicionario)",
+    "searchableName": "mazurka - donegal (jamicionario)",
+    "pages": [
+      "scores/Mazurka - Donegal (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
+  },
+  {
+    "number": 115,
     "name": "Mazurka - Far away (Jamicionario)",
     "searchableName": "mazurka - far away (jamicionario)",
     "pages": [
@@ -1801,7 +1743,7 @@
     ]
   },
   {
-    "number": 114,
+    "number": 116,
     "name": "Mazurka - Il neige a Porto (Jamicionario)",
     "searchableName": "mazurka - il neige a porto (jamicionario)",
     "pages": [
@@ -1816,7 +1758,7 @@
     ]
   },
   {
-    "number": 115,
+    "number": 117,
     "name": "Mazurka - Italienne (Jamicionario)",
     "searchableName": "mazurka - italienne (jamicionario)",
     "pages": [
@@ -1831,7 +1773,7 @@
     ]
   },
   {
-    "number": 116,
+    "number": 118,
     "name": "Mazurka - Je soi perdut (Jamicionario)",
     "searchableName": "mazurka - je soi perdut (jamicionario)",
     "pages": [
@@ -1839,16 +1781,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Mazurka",
       "Europeia"
     ]
   },
   {
-    "number": 117,
+    "number": 119,
     "name": "Mazurka - L'impasse (Jamicionario)",
     "searchableName": "mazurka - l'impasse (jamicionario)",
     "pages": [
@@ -1863,7 +1803,7 @@
     ]
   },
   {
-    "number": 118,
+    "number": 120,
     "name": "Mazurka - La discrète (Jamicionario)",
     "searchableName": "mazurka - la discrète (jamicionario)",
     "pages": [
@@ -1873,7 +1813,6 @@
     "typeOfDance": null,
     "labels": {
       "composer": "Stéphane Delicq",
-      "creationDate": "2021-12-21",
       "workTitle": "La Discrète"
     },
     "folderStructure": [
@@ -1882,7 +1821,7 @@
     ]
   },
   {
-    "number": 119,
+    "number": 121,
     "name": "Mazurka - La nonchalante (Jamicionario)",
     "searchableName": "mazurka - la nonchalante (jamicionario)",
     "pages": [
@@ -1897,7 +1836,7 @@
     ]
   },
   {
-    "number": 120,
+    "number": 122,
     "name": "Mazurka - La p'tite fée (Jamicionario)",
     "searchableName": "mazurka - la p'tite fée (jamicionario)",
     "pages": [
@@ -1912,7 +1851,7 @@
     ]
   },
   {
-    "number": 121,
+    "number": 123,
     "name": "Mazurka - Les écoliers de Saint Genest (Jamicionario)",
     "searchableName": "mazurka - les écoliers de saint genest (jamicionario)",
     "pages": [
@@ -1927,45 +1866,11 @@
     ]
   },
   {
-    "number": 122,
+    "number": 124,
     "name": "Mazurka - Lisbonne (Jamicionario)",
     "searchableName": "mazurka - lisbonne (jamicionario)",
     "pages": [
       "scores/Mazurka - Lisbonne (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Mazurka",
-      "Europeia"
-    ]
-  },
-  {
-    "number": 123,
-    "name": "Mazurka - Mazurka Choro (Jamicionario)",
-    "searchableName": "mazurka - mazurka choro (jamicionario)",
-    "pages": [
-      "scores/Mazurka - Mazurka Choro (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Mazurka",
-      "Europeia"
-    ]
-  },
-  {
-    "number": 124,
-    "name": "Mazurka - Moda a 2 Passos (Jamicionario)",
-    "searchableName": "mazurka - moda a 2 passos (jamicionario)",
-    "pages": [
-      "scores/Mazurka - Moda a 2 Passos (Jamicionario)-1.png"
     ],
     "region": null,
     "typeOfDance": null,
@@ -1977,16 +1882,14 @@
   },
   {
     "number": 125,
-    "name": "Mazurka - Motorway (Jamicionario)",
-    "searchableName": "mazurka - motorway (jamicionario)",
+    "name": "Mazurka - Mazurka Choro (Jamicionario)",
+    "searchableName": "mazurka - mazurka choro (jamicionario)",
     "pages": [
-      "scores/Mazurka - Motorway (Jamicionario)-1.png"
+      "scores/Mazurka - Mazurka Choro (Jamicionario)-1.png"
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Mazurka",
       "Europeia"
@@ -1994,6 +1897,36 @@
   },
   {
     "number": 126,
+    "name": "Mazurka - Moda a 2 Passos do Manel Azenha (Jamicionario)",
+    "searchableName": "mazurka - moda a 2 passos do manel azenha (jamicionario)",
+    "pages": [
+      "scores/Mazurka - Moda a 2 Passos do Manel Azenha (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
+  },
+  {
+    "number": 127,
+    "name": "Mazurka - Motorway (Jamicionario)",
+    "searchableName": "mazurka - motorway (jamicionario)",
+    "pages": [
+      "scores/Mazurka - Motorway (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
+  },
+  {
+    "number": 128,
     "name": "Mazurka - Mouchti (Jamicionario)",
     "searchableName": "mazurka - mouchti (jamicionario)",
     "pages": [
@@ -2008,7 +1941,7 @@
     ]
   },
   {
-    "number": 127,
+    "number": 129,
     "name": "Mazurka - Musike (Jamicionario)",
     "searchableName": "mazurka - musike (jamicionario)",
     "pages": [
@@ -2023,7 +1956,7 @@
     ]
   },
   {
-    "number": 128,
+    "number": 130,
     "name": "Mazurka - Nadiejda (Jamicionario)",
     "searchableName": "mazurka - nadiejda (jamicionario)",
     "pages": [
@@ -2033,7 +1966,6 @@
     "typeOfDance": null,
     "labels": {
       "composer": "Stéphane Delicq",
-      "creationDate": "2021-12-20",
       "workTitle": "Nadiejda"
     },
     "folderStructure": [
@@ -2042,7 +1974,7 @@
     ]
   },
   {
-    "number": 129,
+    "number": 131,
     "name": "Mazurka - Natzurka (Jamicionario)",
     "searchableName": "mazurka - natzurka (jamicionario)",
     "pages": [
@@ -2050,16 +1982,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Mazurka",
       "Europeia"
     ]
   },
   {
-    "number": 130,
+    "number": 132,
     "name": "Mazurka - Nina (Jamicionario)",
     "searchableName": "mazurka - nina (jamicionario)",
     "pages": [
@@ -2074,7 +2004,7 @@
     ]
   },
   {
-    "number": 131,
+    "number": 133,
     "name": "Mazurka - Solitude (Jamicionario)",
     "searchableName": "mazurka - solitude (jamicionario)",
     "pages": [
@@ -2089,7 +2019,7 @@
     ]
   },
   {
-    "number": 132,
+    "number": 134,
     "name": "Mazurka - Sonny Brogan's (Jamicionario)",
     "searchableName": "mazurka - sonny brogan's (jamicionario)",
     "pages": [
@@ -2097,43 +2027,7 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Mazurka",
-      "Europeia"
-    ]
-  },
-  {
-    "number": 133,
-    "name": "Mazurka - Tourbillonne (Jamicionario)",
-    "searchableName": "mazurka - tourbillonne (jamicionario)",
-    "pages": [
-      "scores/Mazurka - Tourbillonne (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Mazurka",
-      "Europeia"
-    ]
-  },
-  {
-    "number": 134,
-    "name": "Mazurka - Trafic d'orgasmes (Jamicionario)",
-    "searchableName": "mazurka - trafic d'orgasmes (jamicionario)",
-    "pages": [
-      "scores/Mazurka - Trafic d'orgasmes (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Mazurka",
       "Europeia"
@@ -2141,6 +2035,36 @@
   },
   {
     "number": 135,
+    "name": "Mazurka - Tourbillonne (Jamicionario)",
+    "searchableName": "mazurka - tourbillonne (jamicionario)",
+    "pages": [
+      "scores/Mazurka - Tourbillonne (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
+  },
+  {
+    "number": 136,
+    "name": "Mazurka - Trafic d'orgasmes (Jamicionario)",
+    "searchableName": "mazurka - trafic d'orgasmes (jamicionario)",
+    "pages": [
+      "scores/Mazurka - Trafic d'orgasmes (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Mazurka",
+      "Europeia"
+    ]
+  },
+  {
+    "number": 137,
     "name": "Muñeira - A camposa (Jamicionario)",
     "searchableName": "muñeira - a camposa (jamicionario)",
     "pages": [
@@ -2149,7 +2073,6 @@
     "region": null,
     "typeOfDance": null,
     "labels": {
-      "creationDate": "2019-10-23",
       "originalFormat": "musicxml",
       "workTitle": "Muineira Da Camposa"
     },
@@ -2158,7 +2081,7 @@
     ]
   },
   {
-    "number": 136,
+    "number": 138,
     "name": "Muñeira - De Chantada (Jamicionario)",
     "searchableName": "muñeira - de chantada (jamicionario)",
     "pages": [
@@ -2172,7 +2095,7 @@
     ]
   },
   {
-    "number": 137,
+    "number": 139,
     "name": "Muñeira - De Ponte Sampaio (Jamicionario)",
     "searchableName": "muñeira - de ponte sampaio (jamicionario)",
     "pages": [
@@ -2186,7 +2109,7 @@
     ]
   },
   {
-    "number": 138,
+    "number": 140,
     "name": "Polka - John Egan's (Jamicionario)",
     "searchableName": "polka - john egan's (jamicionario)",
     "pages": [
@@ -2200,7 +2123,7 @@
     ]
   },
   {
-    "number": 139,
+    "number": 141,
     "name": "Polka - L'Elan (Jamicionario)",
     "searchableName": "polka - l'elan (jamicionario)",
     "pages": [
@@ -2214,7 +2137,7 @@
     ]
   },
   {
-    "number": 140,
+    "number": 142,
     "name": "Polka - The Ballydesmond 1 (Jamicionario)",
     "searchableName": "polka - the ballydesmond 1 (jamicionario)",
     "pages": [
@@ -2228,7 +2151,7 @@
     ]
   },
   {
-    "number": 141,
+    "number": 143,
     "name": "Polka - The Ballydesmond 2 (Jamicionario)",
     "searchableName": "polka - the ballydesmond 2 (jamicionario)",
     "pages": [
@@ -2242,7 +2165,7 @@
     ]
   },
   {
-    "number": 142,
+    "number": 144,
     "name": "Polska - Efter Kings Selma (Jamicionario)",
     "searchableName": "polska - efter kings selma (jamicionario)",
     "pages": [
@@ -2256,7 +2179,7 @@
     ]
   },
   {
-    "number": 143,
+    "number": 145,
     "name": "Polska - Flodens dod (Jamicionario)",
     "searchableName": "polska - flodens dod (jamicionario)",
     "pages": [
@@ -2270,7 +2193,7 @@
     ]
   },
   {
-    "number": 144,
+    "number": 146,
     "name": "Polska - Krus Polska (Jamicionario)",
     "searchableName": "polska - krus polska (jamicionario)",
     "pages": [
@@ -2278,15 +2201,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Polska"
     ]
   },
   {
-    "number": 145,
+    "number": 147,
     "name": "Slangpolska - Från Barsebäck (Jamicionario)",
     "searchableName": "slangpolska - från barsebäck (jamicionario)",
     "pages": [
@@ -2300,7 +2221,7 @@
     ]
   },
   {
-    "number": 146,
+    "number": 148,
     "name": "Slangpolska - Från Halleforsnas (Jamicionario)",
     "searchableName": "slangpolska - från halleforsnas (jamicionario)",
     "pages": [
@@ -2314,7 +2235,7 @@
     ]
   },
   {
-    "number": 147,
+    "number": 149,
     "name": "Reel - Farewell to Chernobyl (Jamicionario)",
     "searchableName": "reel - farewell to chernobyl (jamicionario)",
     "pages": [
@@ -2322,16 +2243,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Reel",
       "Continental Europeu"
     ]
   },
   {
-    "number": 148,
+    "number": 150,
     "name": "Reel - Pachelbel's Frolicks (Jamicionario)",
     "searchableName": "reel - pachelbel's frolicks (jamicionario)",
     "pages": [
@@ -2339,16 +2258,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Reel",
       "Escoces"
     ]
   },
   {
-    "number": 149,
+    "number": 151,
     "name": "Reel - The Ballivanich Reel (Jamicionario)",
     "searchableName": "reel - the ballivanich reel (jamicionario)",
     "pages": [
@@ -2363,16 +2280,15 @@
     ]
   },
   {
-    "number": 150,
-    "name": "Reel - The eightsome (Jamicionario)",
-    "searchableName": "reel - the eightsome (jamicionario)",
+    "number": 152,
+    "name": "Reel - The deil among the tailors (Jamicionario)",
+    "searchableName": "reel - the deil among the tailors (jamicionario)",
     "pages": [
-      "scores/Reel - The eightsome (Jamicionario)-1.png"
+      "scores/Reel - The deil among the tailors (Jamicionario)-1.png"
     ],
     "region": null,
     "typeOfDance": null,
     "labels": {
-      "creationDate": "2019-10-27",
       "originalFormat": "musicxml",
       "workNumber": "The De'il Amang the Tailors",
       "workTitle": "Eightsome Reel"
@@ -2383,7 +2299,7 @@
     ]
   },
   {
-    "number": 151,
+    "number": 153,
     "name": "Rigodon - L'âne (Jamicionario)",
     "searchableName": "rigodon - l'âne (jamicionario)",
     "pages": [
@@ -2397,7 +2313,7 @@
     ]
   },
   {
-    "number": 152,
+    "number": 154,
     "name": "Ronde a 3 passos - Tri Martolod (Jamicionario)",
     "searchableName": "ronde a 3 passos - tri martolod (jamicionario)",
     "pages": [
@@ -2412,7 +2328,7 @@
     ]
   },
   {
-    "number": 153,
+    "number": 155,
     "name": "Ronde du Quercy - Amazone (Jamicionario)",
     "searchableName": "ronde du quercy - amazone (jamicionario)",
     "pages": [
@@ -2420,43 +2336,7 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Ronde",
-      "Ronde du Quercy"
-    ]
-  },
-  {
-    "number": 154,
-    "name": "Ronde du Quercy - De bon matin (Jamicionario)",
-    "searchableName": "ronde du quercy - de bon matin (jamicionario)",
-    "pages": [
-      "scores/Ronde du Quercy - De bon matin (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Ronde",
-      "Ronde du Quercy"
-    ]
-  },
-  {
-    "number": 155,
-    "name": "Ronde du Quercy - Dejol pont de Lion (Jamicionario)",
-    "searchableName": "ronde du quercy - dejol pont de lion (jamicionario)",
-    "pages": [
-      "scores/Ronde du Quercy - Dejol pont de Lion (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Ronde",
       "Ronde du Quercy"
@@ -2464,16 +2344,14 @@
   },
   {
     "number": 156,
-    "name": "Ronde du Quercy - Dessous la grava de Bordeu (Jamicionario)",
-    "searchableName": "ronde du quercy - dessous la grava de bordeu (jamicionario)",
+    "name": "Ronde du Quercy - De bon matin (Jamicionario)",
+    "searchableName": "ronde du quercy - de bon matin (jamicionario)",
     "pages": [
-      "scores/Ronde du Quercy - Dessous la grava de Bordeu (Jamicionario)-1.png"
+      "scores/Ronde du Quercy - De bon matin (Jamicionario)-1.png"
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Ronde",
       "Ronde du Quercy"
@@ -2481,6 +2359,36 @@
   },
   {
     "number": 157,
+    "name": "Ronde du Quercy - Dejol pont de Lion (Jamicionario)",
+    "searchableName": "ronde du quercy - dejol pont de lion (jamicionario)",
+    "pages": [
+      "scores/Ronde du Quercy - Dejol pont de Lion (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Ronde",
+      "Ronde du Quercy"
+    ]
+  },
+  {
+    "number": 158,
+    "name": "Ronde du Quercy - Dessous la grava de Bordeu (Jamicionario)",
+    "searchableName": "ronde du quercy - dessous la grava de bordeu (jamicionario)",
+    "pages": [
+      "scores/Ronde du Quercy - Dessous la grava de Bordeu (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Ronde",
+      "Ronde du Quercy"
+    ]
+  },
+  {
+    "number": 159,
     "name": "Rondeau em cadeia - KC (Jamicionario)",
     "searchableName": "rondeau em cadeia - kc (jamicionario)",
     "pages": [
@@ -2488,16 +2396,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Rondeau",
       "Em cadeia"
     ]
   },
   {
-    "number": 158,
+    "number": 160,
     "name": "Rondeau em cadeia - L'oeil du cyclone (Jamicionario)",
     "searchableName": "rondeau em cadeia - l'oeil du cyclone (jamicionario)",
     "pages": [
@@ -2505,16 +2411,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Rondeau",
       "Em cadeia"
     ]
   },
   {
-    "number": 159,
+    "number": 161,
     "name": "Rondeau em cadeia - Valhermeil (Jamicionario)",
     "searchableName": "rondeau em cadeia - valhermeil (jamicionario)",
     "pages": [
@@ -2529,7 +2433,7 @@
     ]
   },
   {
-    "number": 160,
+    "number": 162,
     "name": "Rondeau a pares - O homem da lua (Jamicionario)",
     "searchableName": "rondeau a pares - o homem da lua (jamicionario)",
     "pages": [
@@ -2544,7 +2448,7 @@
     ]
   },
   {
-    "number": 161,
+    "number": 163,
     "name": "Rondeau a pares - Safi (Jamicionario)",
     "searchableName": "rondeau a pares - safi (jamicionario)",
     "pages": [
@@ -2559,7 +2463,7 @@
     ]
   },
   {
-    "number": 162,
+    "number": 164,
     "name": "Rumba - Dos cinco mariñeiros (Jamicionario)",
     "searchableName": "rumba - dos cinco mariñeiros (jamicionario)",
     "pages": [
@@ -2573,7 +2477,22 @@
     ]
   },
   {
-    "number": 163,
+    "number": 165,
+    "name": "Brume (Scottish Impar)",
+    "searchableName": "brume (scottish impar)",
+    "pages": [
+      "scores/Brume (Scottish Impar)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Scottish",
+      "Impar"
+    ]
+  },
+  {
+    "number": 166,
     "name": "Scottish - À l'amante (Jamicionario)",
     "searchableName": "scottish - à l'amante (jamicionario)",
     "pages": [
@@ -2581,47 +2500,44 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 164,
-    "name": "Scottish - Autumn Leaves (Jamicionario)",
+    "number": 167,
+    "name": "Scottish - Autumn leaves (Jamicionario)",
     "searchableName": "scottish - autumn leaves (jamicionario)",
     "pages": [
       "scores/Scottish - Autumn Leaves (Jamicionario)-1.png"
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 165,
-    "name": "Scottish - Brittish Swing (Jamicionario)",
+    "number": 168,
+    "name": "Scottish - Brittish swing (Jamicionario)",
     "searchableName": "scottish - brittish swing (jamicionario)",
     "pages": [
       "scores/Scottish - Brittish Swing (Jamicionario)-1.png"
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 166,
+    "number": 169,
     "name": "Scottish - Du 29 de mars (Jamicionario)",
     "searchableName": "scottish - du 29 de mars (jamicionario)",
     "pages": [
@@ -2629,15 +2545,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 167,
+    "number": 170,
     "name": "Scottish - Du Taraf (Jamicionario)",
     "searchableName": "scottish - du taraf (jamicionario)",
     "pages": [
@@ -2645,15 +2560,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 168,
+    "number": 171,
     "name": "Scottish - Esperanza (Jamicionario)",
     "searchableName": "scottish - esperanza (jamicionario)",
     "pages": [
@@ -2663,11 +2577,12 @@
     "typeOfDance": null,
     "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 169,
+    "number": 172,
     "name": "Scottish - Finlandaise (Jamicionario)",
     "searchableName": "scottish - finlandaise (jamicionario)",
     "pages": [
@@ -2677,11 +2592,12 @@
     "typeOfDance": null,
     "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 170,
+    "number": 173,
     "name": "Scottish - Go Mauve (Jamicionario)",
     "searchableName": "scottish - go mauve (jamicionario)",
     "pages": [
@@ -2691,11 +2607,12 @@
     "typeOfDance": null,
     "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 171,
+    "number": 174,
     "name": "Scottish - Hellebore (Jamicionario)",
     "searchableName": "scottish - hellebore (jamicionario)",
     "pages": [
@@ -2705,12 +2622,28 @@
     "typeOfDance": null,
     "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 172,
-    "name": "Scottish - La Sansonette (Jamicionario)",
+    "number": 175,
+    "name": "Scottish - L'ourson (Jamicionario)",
+    "searchableName": "scottish - l'ourson (jamicionario)",
+    "pages": [
+      "scores/Scottish - L'ourson (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Scottish",
+      "Par"
+    ]
+  },
+  {
+    "number": 176,
+    "name": "Scottish - La sansonette (Jamicionario)",
     "searchableName": "scottish - la sansonette (jamicionario)",
     "pages": [
       "scores/Scottish - La Sansonette (Jamicionario)-1.png"
@@ -2719,27 +2652,27 @@
     "typeOfDance": null,
     "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 173,
-    "name": "Scottish - Le Lezard (Jamicionario)",
+    "number": 177,
+    "name": "Scottish - Le lezard (Jamicionario)",
     "searchableName": "scottish - le lezard (jamicionario)",
     "pages": [
       "scores/Scottish - Le Lezard (Jamicionario)-1.png"
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 174,
+    "number": 178,
     "name": "Scottish - Les beaux jours (Jamicionario)",
     "searchableName": "scottish - les beaux jours (jamicionario)",
     "pages": [
@@ -2749,11 +2682,12 @@
     "typeOfDance": null,
     "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 175,
+    "number": 179,
     "name": "Scottish - Luquejada (Jamicionario)",
     "searchableName": "scottish - luquejada (jamicionario)",
     "pages": [
@@ -2761,31 +2695,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 176,
-    "name": "Scottish - Lydienne (Jamicionario)",
-    "searchableName": "scottish - lydienne (jamicionario)",
-    "pages": [
-      "scores/Scottish - Lydienne (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Scottish"
-    ]
-  },
-  {
-    "number": 177,
+    "number": 180,
     "name": "Scottish - Pink Molly (Jamicionario)",
     "searchableName": "scottish - pink molly (jamicionario)",
     "pages": [
@@ -2793,15 +2710,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 178,
+    "number": 181,
     "name": "Scottish - Popcorn behaviour (Jamicionario)",
     "searchableName": "scottish - popcorn behaviour (jamicionario)",
     "pages": [
@@ -2809,15 +2725,32 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 179,
+    "number": 182,
+    "name": "Scottish - Sunshine (Jamicionario)",
+    "searchableName": "scottish - sunshine (jamicionario)",
+    "pages": [
+      "scores/Scottish - Sunshine (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {
+      "originalFormat": "musicxml",
+      "workTitle": "Scottish Urbaine"
+    },
+    "folderStructure": [
+      "Scottish",
+      "Par"
+    ]
+  },
+  {
+    "number": 183,
     "name": "Scottish - Too late to sleep (Jamicionario)",
     "searchableName": "scottish - too late to sleep (jamicionario)",
     "pages": [
@@ -2827,11 +2760,12 @@
     "typeOfDance": null,
     "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 180,
+    "number": 184,
     "name": "Scottish - Trip to Pakistan (Jamicionario)",
     "searchableName": "scottish - trip to pakistan (jamicionario)",
     "pages": [
@@ -2839,15 +2773,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 181,
+    "number": 185,
     "name": "Scottish - Trip to Prague (Jamicionario)",
     "searchableName": "scottish - trip to prague (jamicionario)",
     "pages": [
@@ -2857,11 +2790,48 @@
     "typeOfDance": null,
     "labels": {},
     "folderStructure": [
-      "Scottish"
+      "Scottish",
+      "Par"
     ]
   },
   {
-    "number": 182,
+    "number": 186,
+    "name": "Scottish - Urbaine (Jamicionario)",
+    "searchableName": "scottish - urbaine (jamicionario)",
+    "pages": [
+      "scores/Scottish - Urbaine (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {
+      "originalFormat": "musicxml",
+      "workTitle": "Scottish Urbaine"
+    },
+    "folderStructure": [
+      "Scottish",
+      "Par"
+    ]
+  },
+  {
+    "number": 187,
+    "name": "Shyrto - Liliano Mome (Jamicionario)",
+    "searchableName": "shyrto - liliano mome (jamicionario)",
+    "pages": [
+      "scores/Shyrto - Liliano Mome (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {
+      "originalFormat": "musicxml",
+      "source": "http://musescore.com/user/21223142/scores/4695654",
+      "workTitle": "Gankino Horo"
+    },
+    "folderStructure": [
+      "Shyrto"
+    ]
+  },
+  {
+    "number": 188,
     "name": "Single - 7 Saltos (Jamicionario)",
     "searchableName": "single - 7 saltos (jamicionario)",
     "pages": [
@@ -2875,7 +2845,7 @@
     ]
   },
   {
-    "number": 183,
+    "number": 189,
     "name": "Single - Alunelul (Jamicionario)",
     "searchableName": "single - alunelul (jamicionario)",
     "pages": [
@@ -2889,7 +2859,7 @@
     ]
   },
   {
-    "number": 184,
+    "number": 190,
     "name": "Single - Ambee Dageets (Jamicionario)",
     "searchableName": "single - ambee dageets (jamicionario)",
     "pages": [
@@ -2903,7 +2873,7 @@
     ]
   },
   {
-    "number": 185,
+    "number": 191,
     "name": "Single - Carnaval de Lanz (Jamicionario)",
     "searchableName": "single - carnaval de lanz (jamicionario)",
     "pages": [
@@ -2917,7 +2887,7 @@
     ]
   },
   {
-    "number": 186,
+    "number": 192,
     "name": "Single - Cochinchine (Jamicionario)",
     "searchableName": "single - cochinchine (jamicionario)",
     "pages": [
@@ -2931,7 +2901,7 @@
     ]
   },
   {
-    "number": 187,
+    "number": 193,
     "name": "Single - Dança do Urso (Jamicionario)",
     "searchableName": "single - dança do urso (jamicionario)",
     "pages": [
@@ -2945,7 +2915,7 @@
     ]
   },
   {
-    "number": 188,
+    "number": 194,
     "name": "Single - Dansul pinguinului (Jamicionario)",
     "searchableName": "single - dansul pinguinului (jamicionario)",
     "pages": [
@@ -2959,7 +2929,7 @@
     ]
   },
   {
-    "number": 189,
+    "number": 195,
     "name": "Single - Drumul Dracului (Jamicionario)",
     "searchableName": "single - drumul dracului (jamicionario)",
     "pages": [
@@ -2968,7 +2938,6 @@
     "region": null,
     "typeOfDance": null,
     "labels": {
-      "creationDate": "2019-05-08",
       "workTitle": "Tzadik Katamar"
     },
     "folderStructure": [
@@ -2976,7 +2945,7 @@
     ]
   },
   {
-    "number": 190,
+    "number": 196,
     "name": "Single - El sueño de la hija del rey (Jamicionario)",
     "searchableName": "single - el sueño de la hija del rey (jamicionario)",
     "pages": [
@@ -2990,7 +2959,7 @@
     ]
   },
   {
-    "number": 191,
+    "number": 197,
     "name": "Single - Gunesim (Jamicionario)",
     "searchableName": "single - gunesim (jamicionario)",
     "pages": [
@@ -3004,7 +2973,21 @@
     ]
   },
   {
-    "number": 192,
+    "number": 198,
+    "name": "Single - Harabi Hameraked (Jamicionario)",
+    "searchableName": "single - harabi hameraked (jamicionario)",
+    "pages": [
+      "scores/Single - Harabi Hameraked (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {},
+    "folderStructure": [
+      "Single"
+    ]
+  },
+  {
+    "number": 199,
     "name": "Single - Hora Medura (Jamicionario)",
     "searchableName": "single - hora medura (jamicionario)",
     "pages": [
@@ -3018,7 +3001,7 @@
     ]
   },
   {
-    "number": 193,
+    "number": 200,
     "name": "Single - Koce Berberot (Jamicionario)",
     "searchableName": "single - koce berberot (jamicionario)",
     "pages": [
@@ -3032,7 +3015,7 @@
     ]
   },
   {
-    "number": 194,
+    "number": 201,
     "name": "Single - Les olivettes (Jamicionario)",
     "searchableName": "single - les olivettes (jamicionario)",
     "pages": [
@@ -3046,7 +3029,7 @@
     ]
   },
   {
-    "number": 195,
+    "number": 202,
     "name": "Single - Ma Navu (Jamicionario)",
     "searchableName": "single - ma navu (jamicionario)",
     "pages": [
@@ -3060,7 +3043,7 @@
     ]
   },
   {
-    "number": 196,
+    "number": 203,
     "name": "Single - Mardi Gras (Jamicionario)",
     "searchableName": "single - mardi gras (jamicionario)",
     "pages": [
@@ -3074,7 +3057,7 @@
     ]
   },
   {
-    "number": 197,
+    "number": 204,
     "name": "Single - Misirlou (Jamicionario)",
     "searchableName": "single - misirlou (jamicionario)",
     "pages": [
@@ -3083,7 +3066,6 @@
     "region": null,
     "typeOfDance": null,
     "labels": {
-      "creationDate": "2019-05-08",
       "workTitle": "Tzadik Katamar"
     },
     "folderStructure": [
@@ -3091,7 +3073,7 @@
     ]
   },
   {
-    "number": 198,
+    "number": 205,
     "name": "Single - Nigun Shel Yossi (Jamicionario)",
     "searchableName": "single - nigun shel yossi (jamicionario)",
     "pages": [
@@ -3105,7 +3087,7 @@
     ]
   },
   {
-    "number": 199,
+    "number": 206,
     "name": "Single - Oy Yossel Yossel (Jamicionario)",
     "searchableName": "single - oy yossel yossel (jamicionario)",
     "pages": [
@@ -3119,7 +3101,7 @@
     ]
   },
   {
-    "number": 200,
+    "number": 207,
     "name": "Single - Pas d'été de Médoeux (Jamicionario)",
     "searchableName": "single - pas d'été de médoeux (jamicionario)",
     "pages": [
@@ -3128,7 +3110,6 @@
     "region": null,
     "typeOfDance": null,
     "labels": {
-      "creationDate": "2019-05-08",
       "workTitle": "Tzadik Katamar"
     },
     "folderStructure": [
@@ -3136,7 +3117,7 @@
     ]
   },
   {
-    "number": 201,
+    "number": 208,
     "name": "Single - Pieternelle (Jamicionario)",
     "searchableName": "single - pieternelle (jamicionario)",
     "pages": [
@@ -3150,7 +3131,7 @@
     ]
   },
   {
-    "number": 202,
+    "number": 209,
     "name": "Single - Rumelaj (Jamicionario)",
     "searchableName": "single - rumelaj (jamicionario)",
     "pages": [
@@ -3164,7 +3145,7 @@
     ]
   },
   {
-    "number": 203,
+    "number": 210,
     "name": "Single - Serjoza (Jamicionario)",
     "searchableName": "single - serjoza (jamicionario)",
     "pages": [
@@ -3178,7 +3159,7 @@
     ]
   },
   {
-    "number": 204,
+    "number": 211,
     "name": "Single - Troika (Jamicionario)",
     "searchableName": "single - troika (jamicionario)",
     "pages": [
@@ -3192,7 +3173,7 @@
     ]
   },
   {
-    "number": 205,
+    "number": 212,
     "name": "Single - Tzadik Katamar (Jamicionario)",
     "searchableName": "single - tzadik katamar (jamicionario)",
     "pages": [
@@ -3201,7 +3182,6 @@
     "region": null,
     "typeOfDance": null,
     "labels": {
-      "creationDate": "2019-05-08",
       "workTitle": "Tzadik Katamar"
     },
     "folderStructure": [
@@ -3209,7 +3189,7 @@
     ]
   },
   {
-    "number": 206,
+    "number": 213,
     "name": "Single - Valsa da mota (Jamicionario)",
     "searchableName": "single - valsa da mota (jamicionario)",
     "pages": [
@@ -3223,7 +3203,7 @@
     ]
   },
   {
-    "number": 207,
+    "number": 214,
     "name": "Tarantella - Napoilitana (Jamicionario)",
     "searchableName": "tarantella - napoilitana (jamicionario)",
     "pages": [
@@ -3237,7 +3217,7 @@
     ]
   },
   {
-    "number": 208,
+    "number": 215,
     "name": "Tourdion - Quand je bois du vin claret (Jamicionario)",
     "searchableName": "tourdion - quand je bois du vin claret (jamicionario)",
     "pages": [
@@ -3245,15 +3225,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Tourdion"
     ]
   },
   {
-    "number": 209,
+    "number": 216,
     "name": "Tricot - Dave (Jamicionario)",
     "searchableName": "tricot - dave (jamicionario)",
     "pages": [
@@ -3261,15 +3239,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Tricot"
     ]
   },
   {
-    "number": 210,
+    "number": 217,
     "name": "Tricot - Le beau rosier (Jamicionario)",
     "searchableName": "tricot - le beau rosier (jamicionario)",
     "pages": [
@@ -3277,15 +3253,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Tricot"
     ]
   },
   {
-    "number": 211,
+    "number": 218,
     "name": "Valsa 3T - Ashokan Farewell (Jamicionario)",
     "searchableName": "valsa 3t - ashokan farewell (jamicionario)",
     "pages": [
@@ -3301,25 +3275,7 @@
     ]
   },
   {
-    "number": 212,
-    "name": "Valsa 3T - Cold Frosty Morning (Jamicionario)",
-    "searchableName": "valsa 3t - cold frosty morning (jamicionario)",
-    "pages": [
-      "scores/Valsa 3T - Cold Frosty Morning (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Lentas (slow)"
-    ]
-  },
-  {
-    "number": 213,
+    "number": 219,
     "name": "Valsa 3T - Josefin Dopvals (Jamicionario)",
     "searchableName": "valsa 3t - josefin dopvals (jamicionario)",
     "pages": [
@@ -3335,48 +3291,7 @@
     ]
   },
   {
-    "number": 214,
-    "name": "Valsa 3T - Situações triangulares (Jamicionario)",
-    "searchableName": "valsa 3t - situações triangulares (jamicionario)",
-    "pages": [
-      "scores/Valsa 3T - Situações triangulares (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "composer": "Stéphane Delicq",
-      "creationDate": "2021-12-20",
-      "workTitle": "Nadiejda"
-    },
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Lentas (slow)"
-    ]
-  },
-  {
-    "number": 215,
-    "name": "Valsa 3T - The dark island (Jamicionario)",
-    "searchableName": "valsa 3t - the dark island (jamicionario)",
-    "pages": [
-      "scores/Valsa 3T - The dark island (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2019-10-27",
-      "originalFormat": "musicxml",
-      "source": "http://musescore.com/user/17068472/scores/4804561",
-      "workTitle": "The Dark Island"
-    },
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Lentas (slow)"
-    ]
-  },
-  {
-    "number": 216,
+    "number": 220,
     "name": "Valsa 3T - A minha saia velhinha (Jamicionario)",
     "searchableName": "valsa 3t - a minha saia velhinha (jamicionario)",
     "pages": [
@@ -3392,7 +3307,7 @@
     ]
   },
   {
-    "number": 217,
+    "number": 221,
     "name": "Valsa 3T - Al yaras (Jamicionario)",
     "searchableName": "valsa 3t - al yaras (jamicionario)",
     "pages": [
@@ -3408,75 +3323,11 @@
     ]
   },
   {
-    "number": 218,
-    "name": "Valsa 3T - Amanha (Jamicionario)",
-    "searchableName": "valsa 3t - amanha (jamicionario)",
-    "pages": [
-      "scores/Valsa 3T - Amanha (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {},
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Rapidas (fast)"
-    ]
-  },
-  {
-    "number": 219,
-    "name": "Valsa 3T - Amsterdam (Jamicionario)",
-    "searchableName": "valsa 3t - amsterdam (jamicionario)",
-    "pages": [
-      "scores/Valsa 3T - Amsterdam (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {},
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Rapidas (fast)"
-    ]
-  },
-  {
-    "number": 220,
-    "name": "Valsa 3T - As Colinas da Manchuria (Jamicionario)",
-    "searchableName": "valsa 3t - as colinas da manchuria (jamicionario)",
-    "pages": [
-      "scores/Valsa 3T - As Colinas da Manchuria (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {},
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Rapidas (fast)"
-    ]
-  },
-  {
-    "number": 221,
+    "number": 222,
     "name": "Valsa 3T - As Montanhas (Jamicionario)",
     "searchableName": "valsa 3t - as montanhas (jamicionario)",
     "pages": [
       "scores/Valsa 3T - As Montanhas (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {},
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Rapidas (fast)"
-    ]
-  },
-  {
-    "number": 222,
-    "name": "Valsa 3T - Cotillon (Jamicionario)",
-    "searchableName": "valsa 3t - cotillon (jamicionario)",
-    "pages": [
-      "scores/Valsa 3T - Cotillon (Jamicionario)-1.png"
     ],
     "region": null,
     "typeOfDance": null,
@@ -3505,10 +3356,28 @@
   },
   {
     "number": 224,
-    "name": "Valsa 3T - La bohème (Jamicionario)",
-    "searchableName": "valsa 3t - la bohème (jamicionario)",
+    "name": "Valsa 3T - La mal aimable (Jamicionario)",
+    "searchableName": "valsa 3t - la mal aimable (jamicionario)",
     "pages": [
-      "scores/Valsa 3T - La bohème (Jamicionario)-1.png"
+      "scores/Valsa 3T - La mal aimable (Jamicionario)-1.png"
+    ],
+    "region": null,
+    "typeOfDance": null,
+    "labels": {
+      "workTitle": "La Mal Aimable"
+    },
+    "folderStructure": [
+      "Valsas",
+      "3 tempos",
+      "Rapidas (fast)"
+    ]
+  },
+  {
+    "number": 225,
+    "name": "Valsa 3T - La Partida (Jamicionario)",
+    "searchableName": "valsa 3t - la partida (jamicionario)",
+    "pages": [
+      "scores/Valsa 3T - La Partida (Jamicionario)-1.png"
     ],
     "region": null,
     "typeOfDance": null,
@@ -3520,44 +3389,7 @@
     ]
   },
   {
-    "number": 225,
-    "name": "Valsa 3T - La mal aimable (Jamicionario)",
-    "searchableName": "valsa 3t - la mal aimable (jamicionario)",
-    "pages": [
-      "scores/Valsa 3T - La mal aimable (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2023-04-02",
-      "workTitle": "La Mal Aimable"
-    },
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Rapidas (fast)"
-    ]
-  },
-  {
     "number": 226,
-    "name": "Valsa 3T - La Partida (Jamicionario)",
-    "searchableName": "valsa 3t - la partida (jamicionario)",
-    "pages": [
-      "scores/Valsa 3T - La Partida (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Rapidas (fast)"
-    ]
-  },
-  {
-    "number": 227,
     "name": "Valsa 3T - La rivière de Regourd (Jamicionario)",
     "searchableName": "valsa 3t - la rivière de regourd (jamicionario)",
     "pages": [
@@ -3573,7 +3405,7 @@
     ]
   },
   {
-    "number": 228,
+    "number": 227,
     "name": "Valsa 3T - La valse des negresses vertes (Jamicionario)",
     "searchableName": "valsa 3t - la valse des negresses vertes (jamicionario)",
     "pages": [
@@ -3589,27 +3421,7 @@
     ]
   },
   {
-    "number": 229,
-    "name": "Valsa 3T - Leaving Brittany (Jamcionario)",
-    "searchableName": "valsa 3t - leaving brittany (jamcionario)",
-    "pages": [
-      "scores/Valsa 3T - Leaving Brittany (Jamcionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {
-      "creationDate": "2019-10-23",
-      "originalFormat": "musicxml",
-      "workTitle": "Leaving Brittany"
-    },
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Rapidas (fast)"
-    ]
-  },
-  {
-    "number": 230,
+    "number": 228,
     "name": "Valsa 3T - Lucifer (Jamicionario)",
     "searchableName": "valsa 3t - lucifer (jamicionario)",
     "pages": [
@@ -3625,7 +3437,7 @@
     ]
   },
   {
-    "number": 231,
+    "number": 229,
     "name": "Valsa 3T - My favourite things (Jamicionario)",
     "searchableName": "valsa 3t - my favourite things (jamicionario)",
     "pages": [
@@ -3641,7 +3453,7 @@
     ]
   },
   {
-    "number": 232,
+    "number": 230,
     "name": "Valsa 3T - Primavera a 3 tempos (Jamicionario)",
     "searchableName": "valsa 3t - primavera a 3 tempos (jamicionario)",
     "pages": [
@@ -3652,7 +3464,6 @@
     "labels": {
       "arranger": "Pedro Pimenta Novembro 2023",
       "composer": "Pedro Pimenta  2019",
-      "creationDate": "2023-10-30",
       "subtitle": "Legenda",
       "workTitle": "Valsinha de 3"
     },
@@ -3663,7 +3474,7 @@
     ]
   },
   {
-    "number": 233,
+    "number": 231,
     "name": "Valsa 3T - Silent Night (Jamicionario)",
     "searchableName": "valsa 3t - silent night (jamicionario)",
     "pages": [
@@ -3679,23 +3490,7 @@
     ]
   },
   {
-    "number": 234,
-    "name": "Valsa 3T - Trip to Skye (Jamicionario)",
-    "searchableName": "valsa 3t - trip to skye (jamicionario)",
-    "pages": [
-      "scores/Valsa 3T - Trip to Skye (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {},
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Rapidas (fast)"
-    ]
-  },
-  {
-    "number": 235,
+    "number": 232,
     "name": "Valsa 3T - Valse à Ollu (Jamicionario)",
     "searchableName": "valsa 3t - valse à ollu (jamicionario)",
     "pages": [
@@ -3711,23 +3506,7 @@
     ]
   },
   {
-    "number": 236,
-    "name": "Valsa 3T - Valse aléatoire (Jamicionario)",
-    "searchableName": "valsa 3t - valse aléatoire (jamicionario)",
-    "pages": [
-      "scores/Valsa 3T - Valse aléatoire (Jamicionario)-1.png"
-    ],
-    "region": null,
-    "typeOfDance": null,
-    "labels": {},
-    "folderStructure": [
-      "Valsas",
-      "3 tempos",
-      "Rapidas (fast)"
-    ]
-  },
-  {
-    "number": 237,
+    "number": 233,
     "name": "Valsa 3T - Valse Dombelle (Jamicionario)",
     "searchableName": "valsa 3t - valse dombelle (jamicionario)",
     "pages": [
@@ -3743,7 +3522,7 @@
     ]
   },
   {
-    "number": 238,
+    "number": 234,
     "name": "Valsa 3T - Valse Magnetique (Jamicionario)",
     "searchableName": "valsa 3t - valse magnetique (jamicionario)",
     "pages": [
@@ -3759,7 +3538,7 @@
     ]
   },
   {
-    "number": 239,
+    "number": 235,
     "name": "Valsa 3T - We wish you a merry Christmas (Jamicionario)",
     "searchableName": "valsa 3t - we wish you a merry christmas (jamicionario)",
     "pages": [
@@ -3775,7 +3554,7 @@
     ]
   },
   {
-    "number": 240,
+    "number": 236,
     "name": "Valsa 5T - A ultima bolacha (Jamicionario)",
     "searchableName": "valsa 5t - a ultima bolacha (jamicionario)",
     "pages": [
@@ -3783,16 +3562,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Valsas",
       "5 Tempos"
     ]
   },
   {
-    "number": 241,
+    "number": 237,
     "name": "Valsa 5T - Batalia (Jamicionario)",
     "searchableName": "valsa 5t - batalia (jamicionario)",
     "pages": [
@@ -3800,16 +3577,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Valsas",
       "5 Tempos"
     ]
   },
   {
-    "number": 242,
+    "number": 238,
     "name": "Valsa 5T - Cinco tempoush (Jamicionario)",
     "searchableName": "valsa 5t - cinco tempoush (jamicionario)",
     "pages": [
@@ -3817,16 +3592,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Valsas",
       "5 Tempos"
     ]
   },
   {
-    "number": 243,
+    "number": 239,
     "name": "Valsa 5T - Elle (Jamicionario)",
     "searchableName": "valsa 5t - elle (jamicionario)",
     "pages": [
@@ -3834,16 +3607,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Valsas",
       "5 Tempos"
     ]
   },
   {
-    "number": 244,
+    "number": 240,
     "name": "Valsa 5T - Evening Glory (Jamicionario)",
     "searchableName": "valsa 5t - evening glory (jamicionario)",
     "pages": [
@@ -3851,16 +3622,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Valsas",
       "5 Tempos"
     ]
   },
   {
-    "number": 245,
+    "number": 241,
     "name": "Valsa 5T - Take five (Jamicionario)",
     "searchableName": "valsa 5t - take five (jamicionario)",
     "pages": [
@@ -3868,16 +3637,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Valsas",
       "5 Tempos"
     ]
   },
   {
-    "number": 246,
+    "number": 242,
     "name": "Valsa 5T - Vivre (Jamicionario)",
     "searchableName": "valsa 5t - vivre (jamicionario)",
     "pages": [
@@ -3885,16 +3652,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Valsas",
       "5 Tempos"
     ]
   },
   {
-    "number": 247,
+    "number": 243,
     "name": "Valsa 7T - La facture (Jamicionario)",
     "searchableName": "valsa 7t - la facture (jamicionario)",
     "pages": [
@@ -3902,16 +3667,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Valsas",
       "7 Tempos"
     ]
   },
   {
-    "number": 248,
+    "number": 244,
     "name": "Valsa 8T - Anne's walz (Jamicionario)",
     "searchableName": "valsa 8t - anne's walz (jamicionario)",
     "pages": [
@@ -3919,16 +3682,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Valsas",
       "8 Tempos"
     ]
   },
   {
-    "number": 249,
+    "number": 245,
     "name": "Valsa 8T - Parapluie Noir (Jamicionario)",
     "searchableName": "valsa 8t - parapluie noir (jamicionario)",
     "pages": [
@@ -3936,16 +3697,14 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Valsas",
       "8 Tempos"
     ]
   },
   {
-    "number": 250,
+    "number": 246,
     "name": "Wiwat - Halina (Jamicionario)",
     "searchableName": "wiwat - halina (jamicionario)",
     "pages": [
@@ -3959,7 +3718,7 @@
     ]
   },
   {
-    "number": 251,
+    "number": 247,
     "name": "Wiwat - Musialaw ty dziewcze co umiec (Jamicionario)",
     "searchableName": "wiwat - musialaw ty dziewcze co umiec (jamicionario)",
     "pages": [
@@ -3973,7 +3732,7 @@
     ]
   },
   {
-    "number": 252,
+    "number": 248,
     "name": "Contradança - #1 (Jamicionario)",
     "searchableName": "contradança - #1 (jamicionario)",
     "pages": [
@@ -3987,7 +3746,7 @@
     ]
   },
   {
-    "number": 253,
+    "number": 249,
     "name": "Contradança - #2 (Jamicionario)",
     "searchableName": "contradança - #2 (jamicionario)",
     "pages": [
@@ -4001,7 +3760,7 @@
     ]
   },
   {
-    "number": 254,
+    "number": 250,
     "name": "Contradança - #3 (Jamicionario)",
     "searchableName": "contradança - #3 (jamicionario)",
     "pages": [
@@ -4015,7 +3774,7 @@
     ]
   },
   {
-    "number": 255,
+    "number": 251,
     "name": "Corridinho - Sariquite (Jamicionario)",
     "searchableName": "corridinho - sariquite (jamicionario)",
     "pages": [
@@ -4029,7 +3788,7 @@
     ]
   },
   {
-    "number": 256,
+    "number": 252,
     "name": "Fado - Batido (Jamicionario)",
     "searchableName": "fado - batido (jamicionario)",
     "pages": [
@@ -4037,15 +3796,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Fado"
     ]
   },
   {
-    "number": 257,
+    "number": 253,
     "name": "Malhao - da Graça (Jamicionario)",
     "searchableName": "malhao - da graça (jamicionario)",
     "pages": [
@@ -4053,15 +3810,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Malhão"
     ]
   },
   {
-    "number": 258,
+    "number": 254,
     "name": "Malhão - Malhão Malhão (Jamicionario)",
     "searchableName": "malhão - malhão malhão (jamicionario)",
     "pages": [
@@ -4071,7 +3826,6 @@
     "typeOfDance": null,
     "labels": {
       "composer": "Trad.",
-      "creationDate": "2019-10-27",
       "originalFormat": "musicxml",
       "workTitle": "Malhão"
     },
@@ -4080,7 +3834,7 @@
     ]
   },
   {
-    "number": 259,
+    "number": 255,
     "name": "Repasseado - Carapau Preto (Jamicionario)",
     "searchableName": "repasseado - carapau preto (jamicionario)",
     "pages": [
@@ -4088,15 +3842,13 @@
     ],
     "region": "Portugal",
     "typeOfDance": "Repasseado",
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Repasseado"
     ]
   },
   {
-    "number": 260,
+    "number": 256,
     "name": "Repasseado - de Rio d'Onor (Jamicionario)",
     "searchableName": "repasseado - de rio d'onor (jamicionario)",
     "pages": [
@@ -4104,15 +3856,13 @@
     ],
     "region": "Portugal",
     "typeOfDance": "Repasseado",
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Repasseado"
     ]
   },
   {
-    "number": 261,
+    "number": 257,
     "name": "Repasseado - do Vasco (Jamicionario)",
     "searchableName": "repasseado - do vasco (jamicionario)",
     "pages": [
@@ -4120,15 +3870,13 @@
     ],
     "region": "Portugal",
     "typeOfDance": "Repasseado",
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Repasseado"
     ]
   },
   {
-    "number": 262,
+    "number": 258,
     "name": "Single - A Saia da Carolina (Jamicionario)",
     "searchableName": "single - a saia da carolina (jamicionario)",
     "pages": [
@@ -4142,7 +3890,7 @@
     ]
   },
   {
-    "number": 263,
+    "number": 259,
     "name": "Single - Erva Cidreira (Jamicionario)",
     "searchableName": "single - erva cidreira (jamicionario)",
     "pages": [
@@ -4150,15 +3898,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Single"
     ]
   },
   {
-    "number": 264,
+    "number": 260,
     "name": "Single - Fado do espinho (Jamicionario)",
     "searchableName": "single - fado do espinho (jamicionario)",
     "pages": [
@@ -4166,15 +3912,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Single"
     ]
   },
   {
-    "number": 265,
+    "number": 261,
     "name": "Single - Ladrao do meio (Jamicionario)",
     "searchableName": "single - ladrao do meio (jamicionario)",
     "pages": [
@@ -4188,7 +3932,7 @@
     ]
   },
   {
-    "number": 266,
+    "number": 262,
     "name": "Single - Maneio (Jamicionario)",
     "searchableName": "single - maneio (jamicionario)",
     "pages": [
@@ -4196,15 +3940,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Single"
     ]
   },
   {
-    "number": 267,
+    "number": 263,
     "name": "Single - Mat'Aranha (Jamicionario)",
     "searchableName": "single - mat'aranha (jamicionario)",
     "pages": [
@@ -4218,7 +3960,7 @@
     ]
   },
   {
-    "number": 268,
+    "number": 264,
     "name": "Single - Picadinha (Jamicionario)",
     "searchableName": "single - picadinha (jamicionario)",
     "pages": [
@@ -4226,15 +3968,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Single"
     ]
   },
   {
-    "number": 269,
+    "number": 265,
     "name": "Single - Pingacho (Jamicionario)",
     "searchableName": "single - pingacho (jamicionario)",
     "pages": [
@@ -4248,7 +3988,7 @@
     ]
   },
   {
-    "number": 270,
+    "number": 266,
     "name": "Single - Regadinho (Jamicionario)",
     "searchableName": "single - regadinho (jamicionario)",
     "pages": [
@@ -4256,15 +3996,13 @@
     ],
     "region": null,
     "typeOfDance": null,
-    "labels": {
-      "creationDate": "2016-01-07"
-    },
+    "labels": {},
     "folderStructure": [
       "Single"
     ]
   },
   {
-    "number": 271,
+    "number": 267,
     "name": "Single - Senhor Galandum (Jamicionario)",
     "searchableName": "single - senhor galandum (jamicionario)",
     "pages": [
@@ -4278,7 +4016,7 @@
     ]
   },
   {
-    "number": 272,
+    "number": 268,
     "name": "Vira - de Quatro (Jamicionario)",
     "searchableName": "vira - de quatro (jamicionario)",
     "pages": [
@@ -4292,7 +4030,7 @@
     ]
   },
   {
-    "number": 273,
+    "number": 269,
     "name": "Vira - do Minho (Jamicionario)",
     "searchableName": "vira - do minho (jamicionario)",
     "pages": [
@@ -4306,7 +4044,7 @@
     ]
   },
   {
-    "number": 274,
+    "number": 270,
     "name": "Vira - Elvira (Jamicionario)",
     "searchableName": "vira - elvira (jamicionario)",
     "pages": [
@@ -4320,7 +4058,7 @@
     ]
   },
   {
-    "number": 275,
+    "number": 271,
     "name": "Vira - Rosinha (Jamicionario)",
     "searchableName": "vira - rosinha (jamicionario)",
     "pages": [
@@ -4334,7 +4072,7 @@
     ]
   },
   {
-    "number": 276,
+    "number": 272,
     "name": "Vira - Toma lá dá cá (Jamicionario)",
     "searchableName": "vira - toma lá dá cá (jamicionario)",
     "pages": [
