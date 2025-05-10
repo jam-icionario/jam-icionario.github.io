@@ -1,17 +1,18 @@
 [
   {
-    "name": "region",
+    "name": "Region",
     "values": [
-      "France",
-      "Portugal"
+      "Basque Country",
+      "France"
     ]
   },
   {
-    "name": "type of dance",
+    "name": "Type of dance",
     "values": [
-      "Bourrée",
-      "Repasseado",
-      "Vira"
+      "An Dro",
+      "Arin Arin",
+      "Bransle d'Ossau",
+      "Gavotte de Grenoble"
     ]
   }
 ]
