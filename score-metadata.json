@@ -8,7 +8,10 @@
     ],
     "region": "France",
     "typeOfDance": "An Dro",
-    "labels": {},
+    "labels": {
+      "Region": "France",
+      "Type of dance": "An Dro"
+    },
     "files": {
       "pdf": "files/An Dro - d'Alan (Jamicionario).pdf",
       "mscz": "files/An Dro - d'Alan (Jamicionario).mscz"
@@ -26,7 +29,10 @@
     ],
     "region": "France",
     "typeOfDance": "An Dro",
-    "labels": {},
+    "labels": {
+      "Region": "France",
+      "Type of dance": "An Dro"
+    },
     "files": {
       "pdf": "files/An Dro - de Pluherlin (Jamicionario).pdf",
       "mscz": "files/An Dro - de Pluherlin (Jamicionario).mscz"
@@ -174,7 +180,9 @@
       "Arranger": "JMiB",
       "Composer": "Trad Gascogne",
       "Copyright": "JMiB 20231229 - Tablature D.E.S. pour accordéon diatonique Sol/Do",
+      "Region": "Basque Country",
       "Source": "http://musescore.com/user/5476331/scores/13708690",
+      "Type of dance": "Arin Arin",
       "Work title": "Arin-Arin"
     },
     "files": {
@@ -198,7 +206,9 @@
       "Arranger": "JMiB",
       "Composer": "Trad Gascogne",
       "Copyright": "JMiB 20231229 - Tablature D.E.S. pour accordéon diatonique Sol/Do",
+      "Region": "Basque Country",
       "Source": "http://musescore.com/user/5476331/scores/13708690",
+      "Type of dance": "Arin Arin",
       "Work title": "Arin-Arin"
     },
     "files": {
@@ -515,7 +525,10 @@
     ],
     "region": "France",
     "typeOfDance": "Bransle d'Ossau",
-    "labels": {},
+    "labels": {
+      "Region": "France",
+      "Type of dance": "Bransle d'Ossau"
+    },
     "files": {
       "pdf": "files/Bransle d'Ossau - Civada (Jamicionario).pdf",
       "mscz": "files/Bransle d'Ossau - Civada (Jamicionario).mscz"
@@ -534,7 +547,10 @@
     ],
     "region": "France",
     "typeOfDance": "Bransle d'Ossau",
-    "labels": {},
+    "labels": {
+      "Region": "France",
+      "Type of dance": "Bransle d'Ossau"
+    },
     "files": {
       "pdf": "files/Bransle d'Ossau - Les 3 cailloux (Jamicionario).pdf",
       "mscz": "files/Bransle d'Ossau - Les 3 cailloux (Jamicionario).mscz"
@@ -1374,7 +1390,10 @@
     ],
     "region": "France",
     "typeOfDance": "Gavotte de Grenoble",
-    "labels": {},
+    "labels": {
+      "Region": "France",
+      "Type of dance": "Gavotte de Grenoble"
+    },
     "files": {
       "pdf": "files/Gavotte de Grenoble - Berceuse pour un loulou (Jamicionario).pdf",
       "mscz": "files/Gavotte de Grenoble - Berceuse pour un loulou (Jamicionario).mscz"
