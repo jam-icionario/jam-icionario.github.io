@@ -1,0 +1,56 @@
+﻿[
+  {
+    "name": "Dance geometry",
+    "values": [
+      "Circle",
+      "Couple",
+      "Couples",
+      "Parallel lines",
+      "Quadrille",
+      "Single line"
+    ]
+  },
+  {
+    "name": "Type of dance",
+    "values": [
+      "An Dro",
+      "Arin-Arin",
+      "Bourrée, 2T",
+      "Bourrée, 3T",
+      "Bransles, Brando (Bransle italiana)",
+      "Bransles, De Noirmoutier",
+      "Bransles, Modernas",
+      "Bransles, Renascentistas",
+      "Círculo / Chappeloise, Jigs britânicos (6/8)",
+      "Círculo / Chappeloise, Jigs continentais europeus (6/8)",
+      "Círculo / Chappeloise, Jigs irlandeses (6/8)",
+      "Círculo / Chappeloise, Temas Pop",
+      "Congo, Congo de captieux",
+      "Contradança, Portuguesa",
+      "Corridinho",
+      "Fados",
+      "Fandango",
+      "Halay",
+      "Hasapiko",
+      "Maraichines",
+      "Mazurka, Brasileira ",
+      "Mazurka, Cabo-Verdiana ",
+      "Mazurka, Europeia",
+      "Morna",
+      "Muiñeira",
+      "Polska",
+      "Rigodon",
+      "Rondeau, en chaine",
+      "Rondeau, en couple ",
+      "Rondes, a 3 passos ",
+      "Rondes, du Quercy ",
+      "Scottish, Impar",
+      "Scottish, Normal ",
+      "Valsa, 3T (fast)",
+      "Valsa, 3T (slow)",
+      "Valsa, 5T",
+      "Valsa, 7T",
+      "Valsa, 8T"
+    ]
+  }
+]
